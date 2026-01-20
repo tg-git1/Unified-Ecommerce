@@ -1,0 +1,301 @@
+review_id,platform,product_name,rating,review_text,review_length,verified_purchase,duplicate_phrase_score,reviewer_history,review_post_gap
+PR_0001,Reliance Digital,Prestige Induction Cooktop 1200W,4,Very nice induction must buy,5,0,0.65,3,0
+PR_0002,Amazon,Prestige Induction Cooktop 1200W,5,Nice nice nice nice,4,0,0.79,4,2
+PR_0003,Amazon,Prestige Induction Cooktop 1200W,5,Original Prestige product with good safety features and reliable performance.,10,1,0.3,181,7
+PR_0004,Reliance Digital,Prestige Induction Cooktop 1200W,5,Very nice induction must buy,5,0,0.78,1,2
+PR_0005,Reliance Digital,Prestige Induction Cooktop 1200W,4,Very nice induction must buy,5,0,0.63,4,0
+PR_0006,Amazon,Prestige Induction Cooktop 1200W,4,Heats fast and is energy efficient.,6,1,0.1,22,11
+PR_0007,Reliance Digital,Prestige Induction Cooktop 1200W,3,Satisfied with the performance.,4,1,0.06,139,16
+PR_0008,Reliance Digital,Prestige Induction Cooktop 1200W,3,Good product and easy to use.,6,1,0.13,97,45
+PR_0009,Amazon,Prestige Induction Cooktop 1200W,5,Highly recommended induction cooktop for regular household cooking.,8,1,0.18,47,30
+PR_0010,Reliance Digital,Prestige Induction Cooktop 1200W,4,Awesome awesome awesome,3,0,0.7,3,0
+PR_0011,Amazon,Prestige Induction Cooktop 1200W,5,Original Prestige product with good safety features and reliable performance.,10,1,0.15,143,21
+PR_0012,Amazon,Prestige Induction Cooktop 1200W,4,Very nice induction must buy,5,0,0.74,4,1
+PR_0013,Amazon,Prestige Induction Cooktop 1200W,5,Very nice induction must buy,5,0,0.88,3,1
+PR_0014,Amazon,Prestige Induction Cooktop 1200W,4,The induction cooktop works well for daily cooking.,8,1,0.01,190,17
+PR_0015,Reliance Digital,Prestige Induction Cooktop 1200W,5,Heats fast and is energy efficient.,6,1,0.28,123,22
+PR_0016,Reliance Digital,Prestige Induction Cooktop 1200W,5,Very nice induction must buy,5,0,0.66,2,2
+PR_0017,Amazon,Prestige Induction Cooktop 1200W,3,Decent quality cooktop for the price.,6,1,0,32,40
+PR_0018,Reliance Digital,Prestige Induction Cooktop 1200W,5,Very nice induction must buy,5,0,0.82,4,0
+PR_0019,Reliance Digital,Prestige Induction Cooktop 1200W,4,Very nice induction must buy,5,0,0.88,1,2
+PR_0020,Amazon,Prestige Induction Cooktop 1200W,4,Original Prestige product with good safety features and reliable performance.,10,1,0.18,72,55
+PR_0021,Reliance Digital,Prestige Induction Cooktop 1200W,5,Heats fast and is energy efficient.,6,1,0.03,110,32
+PR_0022,Amazon,Prestige Induction Cooktop 1200W,3,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.02,54,32
+PR_0023,Amazon,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.85,3,2
+PR_0024,Amazon,Prestige Induction Cooktop 1200W,3,Highly recommended induction cooktop for regular household cooking.,8,1,0.02,158,52
+PR_0025,Reliance Digital,Prestige Induction Cooktop 1200W,3,The induction cooktop works well for daily cooking.,8,1,0.01,129,48
+PR_0026,Amazon,Prestige Induction Cooktop 1200W,5,Good product and easy to use.,6,1,0.08,54,59
+PR_0027,Reliance Digital,Prestige Induction Cooktop 1200W,3,Satisfied with the performance.,4,1,0.2,158,49
+PR_0028,Amazon,Prestige Induction Cooktop 1200W,5,The induction cooktop works well for daily cooking.,8,1,0.1,51,38
+PR_0029,Reliance Digital,Prestige Induction Cooktop 1200W,3,The induction cooktop works well for daily cooking.,8,1,0.19,198,24
+PR_0030,Amazon,Prestige Induction Cooktop 1200W,3,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.14,134,21
+PR_0031,Reliance Digital,Prestige Induction Cooktop 1200W,4,Original Prestige product with good safety features and reliable performance.,10,1,0.02,160,14
+PR_0032,Amazon,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.86,1,0
+PR_0033,Amazon,Prestige Induction Cooktop 1200W,5,Heats fast and is energy efficient.,6,1,0.06,179,30
+PR_0034,Reliance Digital,Prestige Induction Cooktop 1200W,4,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.29,143,51
+PR_0035,Amazon,Prestige Induction Cooktop 1200W,5,Very nice induction must buy,5,0,0.94,4,2
+PR_0036,Amazon,Prestige Induction Cooktop 1200W,4,Satisfied with the performance.,4,1,0.24,103,47
+PR_0037,Reliance Digital,Prestige Induction Cooktop 1200W,5,Awesome awesome awesome,3,0,0.85,1,2
+PR_0038,Reliance Digital,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.63,3,0
+PR_0039,Amazon,Prestige Induction Cooktop 1200W,4,Good product and easy to use.,6,1,0.19,47,52
+PR_0040,Reliance Digital,Prestige Induction Cooktop 1200W,4,The induction cooktop works well for daily cooking.,8,1,0.02,115,5
+PR_0041,Reliance Digital,Prestige Induction Cooktop 1200W,5,Very nice induction must buy,5,0,0.68,5,0
+PR_0042,Amazon,Prestige Induction Cooktop 1200W,3,Satisfied with the performance.,4,1,0.1,37,40
+PR_0043,Amazon,Prestige Induction Cooktop 1200W,3,Original Prestige product with good safety features and reliable performance.,10,1,0.15,178,20
+PR_0044,Reliance Digital,Prestige Induction Cooktop 1200W,4,Awesome awesome awesome,3,0,0.93,4,1
+PR_0045,Amazon,Prestige Induction Cooktop 1200W,5,Awesome awesome awesome,3,0,0.7,2,0
+PR_0046,Amazon,Prestige Induction Cooktop 1200W,4,Best induction cooktop ever buy now,6,0,0.65,3,2
+PR_0047,Amazon,Prestige Induction Cooktop 1200W,4,Good product and easy to use.,6,1,0.13,118,38
+PR_0048,Amazon,Prestige Induction Cooktop 1200W,5,Decent quality cooktop for the price.,6,1,0.01,123,12
+PR_0049,Amazon,Prestige Induction Cooktop 1200W,4,Amazing cooktop best best best,5,0,0.84,3,2
+PR_0050,Amazon,Prestige Induction Cooktop 1200W,4,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.2,188,23
+PR_0051,Reliance Digital,Prestige Induction Cooktop 1200W,4,Awesome awesome awesome,3,0,0.72,5,0
+PR_0052,Amazon,Prestige Induction Cooktop 1200W,4,Heats fast and is energy efficient.,6,1,0.15,169,50
+PR_0053,Reliance Digital,Prestige Induction Cooktop 1200W,4,Original Prestige product with good safety features and reliable performance.,10,1,0.24,138,27
+PR_0054,Amazon,Prestige Induction Cooktop 1200W,5,Decent quality cooktop for the price.,6,1,0.24,175,51
+PR_0055,Amazon,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.68,4,0
+PR_0056,Amazon,Prestige Induction Cooktop 1200W,3,Decent quality cooktop for the price.,6,1,0.18,32,44
+PR_0057,Reliance Digital,Prestige Induction Cooktop 1200W,4,The induction cooktop works well for daily cooking.,8,1,0.18,39,15
+PR_0058,Amazon,Prestige Induction Cooktop 1200W,5,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.16,157,13
+PR_0059,Amazon,Prestige Induction Cooktop 1200W,3,Good product and easy to use.,6,1,0.23,108,24
+PR_0060,Amazon,Prestige Induction Cooktop 1200W,3,Good product and easy to use.,6,1,0.1,164,25
+PR_0061,Reliance Digital,Prestige Induction Cooktop 1200W,3,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.29,128,40
+PR_0062,Amazon,Prestige Induction Cooktop 1200W,4,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.19,66,45
+PR_0063,Amazon,Prestige Induction Cooktop 1200W,4,Heats fast and is energy efficient.,6,1,0.08,186,52
+PR_0064,Reliance Digital,Prestige Induction Cooktop 1200W,4,Highly recommended induction cooktop for regular household cooking.,8,1,0.03,104,43
+PR_0065,Reliance Digital,Prestige Induction Cooktop 1200W,5,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.09,158,29
+PR_0066,Reliance Digital,Prestige Induction Cooktop 1200W,5,Nice nice nice nice,4,0,0.67,3,2
+PR_0067,Reliance Digital,Prestige Induction Cooktop 1200W,4,Amazing cooktop best best best,5,0,0.66,5,0
+PR_0068,Amazon,Prestige Induction Cooktop 1200W,4,Very nice induction must buy,5,0,0.64,4,2
+PR_0069,Amazon,Prestige Induction Cooktop 1200W,5,Decent quality cooktop for the price.,6,1,0.18,82,60
+PR_0070,Reliance Digital,Prestige Induction Cooktop 1200W,5,Very nice induction must buy,5,0,0.8,5,1
+PR_0071,Reliance Digital,Prestige Induction Cooktop 1200W,4,Amazing cooktop best best best,5,0,0.68,4,0
+PR_0072,Reliance Digital,Prestige Induction Cooktop 1200W,3,Good product and easy to use.,6,1,0.07,41,55
+PR_0073,Reliance Digital,Prestige Induction Cooktop 1200W,4,Best induction cooktop ever buy now,6,0,0.62,3,2
+PR_0074,Amazon,Prestige Induction Cooktop 1200W,4,Awesome awesome awesome,3,0,0.63,5,2
+PR_0075,Amazon,Prestige Induction Cooktop 1200W,3,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.2,23,35
+PR_0076,Reliance Digital,Prestige Induction Cooktop 1200W,3,Original Prestige product with good safety features and reliable performance.,10,1,0.04,60,31
+PR_0077,Reliance Digital,Prestige Induction Cooktop 1200W,4,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.01,158,40
+PR_0078,Amazon,Prestige Induction Cooktop 1200W,4,Decent quality cooktop for the price.,6,1,0.25,78,21
+PR_0079,Reliance Digital,Prestige Induction Cooktop 1200W,3,Heats fast and is energy efficient.,6,1,0.21,41,36
+PR_0080,Amazon,Prestige Induction Cooktop 1200W,4,The induction cooktop works well for daily cooking.,8,1,0.24,76,59
+PR_0081,Reliance Digital,Prestige Induction Cooktop 1200W,3,Original Prestige product with good safety features and reliable performance.,10,1,0.22,95,52
+PR_0082,Amazon,Prestige Induction Cooktop 1200W,4,Very nice induction must buy,5,0,0.9,3,2
+PR_0083,Reliance Digital,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.9,3,1
+PR_0084,Reliance Digital,Prestige Induction Cooktop 1200W,3,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.02,138,32
+PR_0085,Reliance Digital,Prestige Induction Cooktop 1200W,4,The induction cooktop works well for daily cooking.,8,1,0.27,149,40
+PR_0086,Reliance Digital,Prestige Induction Cooktop 1200W,4,Amazing cooktop best best best,5,0,0.73,1,1
+PR_0087,Reliance Digital,Prestige Induction Cooktop 1200W,3,Heats fast and is energy efficient.,6,1,0.25,195,54
+PR_0088,Reliance Digital,Prestige Induction Cooktop 1200W,4,Best induction cooktop ever buy now,6,0,0.76,1,2
+PR_0089,Amazon,Prestige Induction Cooktop 1200W,3,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.23,140,37
+PR_0090,Amazon,Prestige Induction Cooktop 1200W,4,Satisfied with the performance.,4,1,0.23,47,49
+PR_0091,Amazon,Prestige Induction Cooktop 1200W,5,The induction cooktop works well for daily cooking.,8,1,0.24,166,41
+PR_0092,Reliance Digital,Prestige Induction Cooktop 1200W,3,Good product and easy to use.,6,1,0.05,185,21
+PR_0093,Reliance Digital,Prestige Induction Cooktop 1200W,5,Original Prestige product with good safety features and reliable performance.,10,1,0.27,74,52
+PR_0094,Amazon,Prestige Induction Cooktop 1200W,5,Highly recommended induction cooktop for regular household cooking.,8,1,0.15,60,24
+PR_0095,Amazon,Prestige Induction Cooktop 1200W,3,Satisfied with the performance.,4,1,0.06,86,34
+PR_0096,Amazon,Prestige Induction Cooktop 1200W,3,Good product and easy to use.,6,1,0.04,117,23
+PR_0097,Reliance Digital,Prestige Induction Cooktop 1200W,3,Heats fast and is energy efficient.,6,1,0.06,63,32
+PR_0098,Reliance Digital,Prestige Induction Cooktop 1200W,5,Awesome awesome awesome,3,0,0.67,2,2
+PR_0099,Reliance Digital,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.65,1,1
+PR_0100,Reliance Digital,Prestige Induction Cooktop 1200W,5,Good product and easy to use.,6,1,0.15,103,51
+PR_0101,Reliance Digital,Prestige Induction Cooktop 1200W,5,Highly recommended induction cooktop for regular household cooking.,8,1,0.25,166,41
+PR_0102,Amazon,Prestige Induction Cooktop 1200W,5,Awesome awesome awesome,3,0,0.78,4,0
+PR_0103,Reliance Digital,Prestige Induction Cooktop 1200W,5,The induction cooktop works well for daily cooking.,8,1,0.18,165,29
+PR_0104,Amazon,Prestige Induction Cooktop 1200W,4,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.1,109,54
+PR_0105,Amazon,Prestige Induction Cooktop 1200W,4,Heats fast and is energy efficient.,6,1,0.28,181,60
+PR_0106,Reliance Digital,Prestige Induction Cooktop 1200W,5,Very nice induction must buy,5,0,0.68,2,1
+PR_0107,Reliance Digital,Prestige Induction Cooktop 1200W,5,The induction cooktop works well for daily cooking.,8,1,0.01,112,17
+PR_0108,Reliance Digital,Prestige Induction Cooktop 1200W,5,Nice nice nice nice,4,0,0.9,5,0
+PR_0109,Reliance Digital,Prestige Induction Cooktop 1200W,4,Awesome awesome awesome,3,0,0.8,5,0
+PR_0110,Amazon,Prestige Induction Cooktop 1200W,5,Satisfied with the performance.,4,1,0.16,76,45
+PR_0111,Reliance Digital,Prestige Induction Cooktop 1200W,3,Satisfied with the performance.,4,1,0.29,49,53
+PR_0112,Reliance Digital,Prestige Induction Cooktop 1200W,5,Decent quality cooktop for the price.,6,1,0.13,106,19
+PR_0113,Amazon,Prestige Induction Cooktop 1200W,3,Decent quality cooktop for the price.,6,1,0.24,44,58
+PR_0114,Reliance Digital,Prestige Induction Cooktop 1200W,3,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.02,147,59
+PR_0115,Reliance Digital,Prestige Induction Cooktop 1200W,3,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.12,66,46
+PR_0116,Reliance Digital,Prestige Induction Cooktop 1200W,5,Original Prestige product with good safety features and reliable performance.,10,1,0.02,182,55
+PR_0117,Reliance Digital,Prestige Induction Cooktop 1200W,5,Decent quality cooktop for the price.,6,1,0.05,60,19
+PR_0118,Amazon,Prestige Induction Cooktop 1200W,5,Heats fast and is energy efficient.,6,1,0.15,175,28
+PR_0119,Reliance Digital,Prestige Induction Cooktop 1200W,5,Highly recommended induction cooktop for regular household cooking.,8,1,0.22,114,16
+PR_0120,Amazon,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.8,3,2
+PR_0121,Amazon,Prestige Induction Cooktop 1200W,5,Heats fast and is energy efficient.,6,1,0.28,143,38
+PR_0122,Amazon,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.92,3,0
+PR_0123,Reliance Digital,Prestige Induction Cooktop 1200W,5,Highly recommended induction cooktop for regular household cooking.,8,1,0.03,146,47
+PR_0124,Reliance Digital,Prestige Induction Cooktop 1200W,5,Nice nice nice nice,4,0,0.61,2,2
+PR_0125,Reliance Digital,Prestige Induction Cooktop 1200W,4,The induction cooktop works well for daily cooking.,8,1,0.23,101,28
+PR_0126,Amazon,Prestige Induction Cooktop 1200W,5,Highly recommended induction cooktop for regular household cooking.,8,1,0.26,44,24
+PR_0127,Reliance Digital,Prestige Induction Cooktop 1200W,5,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.27,200,12
+PR_0128,Reliance Digital,Prestige Induction Cooktop 1200W,4,Very nice induction must buy,5,0,0.76,2,0
+PR_0129,Amazon,Prestige Induction Cooktop 1200W,4,Decent quality cooktop for the price.,6,1,0.27,72,50
+PR_0130,Reliance Digital,Prestige Induction Cooktop 1200W,5,Decent quality cooktop for the price.,6,1,0.03,125,35
+PR_0131,Amazon,Prestige Induction Cooktop 1200W,4,The induction cooktop works well for daily cooking.,8,1,0.1,75,55
+PR_0132,Reliance Digital,Prestige Induction Cooktop 1200W,3,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.05,123,21
+PR_0133,Reliance Digital,Prestige Induction Cooktop 1200W,4,Satisfied with the performance.,4,1,0.07,137,5
+PR_0134,Reliance Digital,Prestige Induction Cooktop 1200W,4,Good product and easy to use.,6,1,0.01,45,8
+PR_0135,Amazon,Prestige Induction Cooktop 1200W,5,Very nice induction must buy,5,0,0.82,4,0
+PR_0136,Amazon,Prestige Induction Cooktop 1200W,3,Decent quality cooktop for the price.,6,1,0.3,20,7
+PR_0137,Reliance Digital,Prestige Induction Cooktop 1200W,4,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.22,75,55
+PR_0138,Amazon,Prestige Induction Cooktop 1200W,5,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.1,97,23
+PR_0139,Reliance Digital,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.77,4,1
+PR_0140,Amazon,Prestige Induction Cooktop 1200W,4,Original Prestige product with good safety features and reliable performance.,10,1,0.03,98,55
+PR_0141,Amazon,Prestige Induction Cooktop 1200W,5,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.11,83,45
+PR_0142,Reliance Digital,Prestige Induction Cooktop 1200W,4,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.25,142,24
+PR_0143,Amazon,Prestige Induction Cooktop 1200W,3,Decent quality cooktop for the price.,6,1,0.22,81,59
+PR_0144,Amazon,Prestige Induction Cooktop 1200W,5,Awesome awesome awesome,3,0,0.72,4,0
+PR_0145,Amazon,Prestige Induction Cooktop 1200W,4,Very nice induction must buy,5,0,0.93,3,2
+PR_0146,Reliance Digital,Prestige Induction Cooktop 1200W,3,Heats fast and is energy efficient.,6,1,0.22,149,7
+PR_0147,Reliance Digital,Prestige Induction Cooktop 1200W,3,Good product and easy to use.,6,1,0.09,118,36
+PR_0148,Reliance Digital,Prestige Induction Cooktop 1200W,3,Decent quality cooktop for the price.,6,1,0.29,196,57
+PR_0149,Reliance Digital,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.77,1,0
+PR_0150,Reliance Digital,Prestige Induction Cooktop 1200W,5,Nice nice nice nice,4,0,0.73,4,2
+PR_0151,Amazon,Prestige Induction Cooktop 1200W,3,Highly recommended induction cooktop for regular household cooking.,8,1,0.16,74,11
+PR_0152,Amazon,Prestige Induction Cooktop 1200W,4,Heats fast and is energy efficient.,6,1,0.09,147,28
+PR_0153,Amazon,Prestige Induction Cooktop 1200W,3,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.1,93,27
+PR_0154,Flipkart,Prestige Induction Cooktop 1200W,4,Heats fast and is energy efficient.,6,1,0.07,36,25
+PR_0155,Reliance Digital,Prestige Induction Cooktop 1200W,4,Awesome awesome awesome,3,0,0.61,5,1
+PR_0156,Reliance Digital,Prestige Induction Cooktop 1200W,5,Awesome awesome awesome,3,0,0.71,3,1
+PR_0157,Flipkart,Prestige Induction Cooktop 1200W,5,Awesome awesome awesome,3,0,0.66,3,1
+PR_0158,Reliance Digital,Prestige Induction Cooktop 1200W,4,Amazing cooktop best best best,5,0,0.69,4,1
+PR_0159,Reliance Digital,Prestige Induction Cooktop 1200W,5,The induction cooktop works well for daily cooking.,8,1,0.02,72,53
+PR_0160,Reliance Digital,Prestige Induction Cooktop 1200W,5,Awesome awesome awesome,3,0,0.82,5,1
+PR_0161,Flipkart,Prestige Induction Cooktop 1200W,3,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.05,163,46
+PR_0162,Flipkart,Prestige Induction Cooktop 1200W,5,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.25,67,26
+PR_0163,Reliance Digital,Prestige Induction Cooktop 1200W,5,Amazing cooktop best best best,5,0,0.85,1,2
+PR_0164,Reliance Digital,Prestige Induction Cooktop 1200W,3,The induction cooktop works well for daily cooking.,8,1,0,122,47
+PR_0165,Flipkart,Prestige Induction Cooktop 1200W,5,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.03,62,41
+PR_0166,Flipkart,Prestige Induction Cooktop 1200W,5,Heats fast and is energy efficient.,6,1,0.04,87,10
+PR_0167,Flipkart,Prestige Induction Cooktop 1200W,5,Amazing cooktop best best best,5,0,0.86,1,1
+PR_0168,Reliance Digital,Prestige Induction Cooktop 1200W,4,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.14,114,50
+PR_0169,Flipkart,Prestige Induction Cooktop 1200W,3,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.08,185,34
+PR_0170,Flipkart,Prestige Induction Cooktop 1200W,4,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.02,151,18
+PR_0171,Flipkart,Prestige Induction Cooktop 1200W,3,Satisfied with the performance.,4,1,0.2,95,51
+PR_0172,Flipkart,Prestige Induction Cooktop 1200W,4,Original Prestige product with good safety features and reliable performance.,10,1,0.09,148,21
+PR_0173,Reliance Digital,Prestige Induction Cooktop 1200W,3,Highly recommended induction cooktop for regular household cooking.,8,1,0.06,134,50
+PR_0174,Flipkart,Prestige Induction Cooktop 1200W,4,Best induction cooktop ever buy now,6,0,0.79,4,2
+PR_0175,Flipkart,Prestige Induction Cooktop 1200W,3,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.17,20,28
+PR_0176,Flipkart,Prestige Induction Cooktop 1200W,4,Awesome awesome awesome,3,0,0.94,1,1
+PR_0177,Flipkart,Prestige Induction Cooktop 1200W,4,Satisfied with the performance.,4,1,0.1,131,28
+PR_0178,Reliance Digital,Prestige Induction Cooktop 1200W,4,Very nice induction must buy,5,0,0.75,1,2
+PR_0179,Reliance Digital,Prestige Induction Cooktop 1200W,4,Decent quality cooktop for the price.,6,1,0.17,185,19
+PR_0180,Flipkart,Prestige Induction Cooktop 1200W,5,Nice nice nice nice,4,0,0.79,2,0
+PR_0181,Reliance Digital,Prestige Induction Cooktop 1200W,3,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.24,61,8
+PR_0182,Flipkart,Prestige Induction Cooktop 1200W,5,Decent quality cooktop for the price.,6,1,0.2,194,5
+PR_0183,Reliance Digital,Prestige Induction Cooktop 1200W,3,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.19,28,19
+PR_0184,Flipkart,Prestige Induction Cooktop 1200W,3,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.01,64,42
+PR_0185,Flipkart,Prestige Induction Cooktop 1200W,4,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.23,61,13
+PR_0186,Flipkart,Prestige Induction Cooktop 1200W,5,Awesome awesome awesome,3,0,0.82,4,2
+PR_0187,Flipkart,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.83,2,1
+PR_0188,Flipkart,Prestige Induction Cooktop 1200W,3,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.22,102,27
+PR_0189,Flipkart,Prestige Induction Cooktop 1200W,3,Original Prestige product with good safety features and reliable performance.,10,1,0.2,166,20
+PR_0190,Reliance Digital,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.72,2,2
+PR_0191,Reliance Digital,Prestige Induction Cooktop 1200W,4,Best induction cooktop ever buy now,6,0,0.71,3,2
+PR_0192,Reliance Digital,Prestige Induction Cooktop 1200W,4,Original Prestige product with good safety features and reliable performance.,10,1,0.05,174,49
+PR_0193,Reliance Digital,Prestige Induction Cooktop 1200W,5,The induction cooktop works well for daily cooking.,8,1,0.26,32,15
+PR_0194,Flipkart,Prestige Induction Cooktop 1200W,3,Original Prestige product with good safety features and reliable performance.,10,1,0.23,151,20
+PR_0195,Flipkart,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.91,1,1
+PR_0196,Reliance Digital,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.78,4,2
+PR_0197,Flipkart,Prestige Induction Cooktop 1200W,4,Satisfied with the performance.,4,1,0.14,83,40
+PR_0198,Reliance Digital,Prestige Induction Cooktop 1200W,4,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.28,187,33
+PR_0199,Reliance Digital,Prestige Induction Cooktop 1200W,5,Heats fast and is energy efficient.,6,1,0.15,44,38
+PR_0200,Reliance Digital,Prestige Induction Cooktop 1200W,3,Decent quality cooktop for the price.,6,1,0.19,41,37
+PR_0201,Flipkart,Prestige Induction Cooktop 1200W,5,Satisfied with the performance.,4,1,0.05,25,42
+PR_0202,Reliance Digital,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.63,5,2
+PR_0203,Reliance Digital,Prestige Induction Cooktop 1200W,4,Decent quality cooktop for the price.,6,1,0.11,80,27
+PR_0204,Flipkart,Prestige Induction Cooktop 1200W,5,Nice nice nice nice,4,0,0.87,2,2
+PR_0205,Flipkart,Prestige Induction Cooktop 1200W,4,Awesome awesome awesome,3,0,0.64,5,2
+PR_0206,Flipkart,Prestige Induction Cooktop 1200W,4,Satisfied with the performance.,4,1,0.06,82,22
+PR_0207,Flipkart,Prestige Induction Cooktop 1200W,4,Very nice induction must buy,5,0,0.76,5,1
+PR_0208,Reliance Digital,Prestige Induction Cooktop 1200W,3,Good product and easy to use.,6,1,0.07,166,11
+PR_0209,Flipkart,Prestige Induction Cooktop 1200W,3,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.14,169,36
+PR_0210,Flipkart,Prestige Induction Cooktop 1200W,4,Decent quality cooktop for the price.,6,1,0.09,78,36
+PR_0211,Flipkart,Prestige Induction Cooktop 1200W,3,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.18,76,59
+PR_0212,Reliance Digital,Prestige Induction Cooktop 1200W,3,The induction cooktop works well for daily cooking.,8,1,0.3,181,41
+PR_0213,Flipkart,Prestige Induction Cooktop 1200W,5,Satisfied with the performance.,4,1,0.17,75,9
+PR_0214,Flipkart,Prestige Induction Cooktop 1200W,5,Nice nice nice nice,4,0,0.66,4,2
+PR_0215,Reliance Digital,Prestige Induction Cooktop 1200W,5,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.01,50,53
+PR_0216,Flipkart,Prestige Induction Cooktop 1200W,4,Heats fast and is energy efficient.,6,1,0.12,156,32
+PR_0217,Reliance Digital,Prestige Induction Cooktop 1200W,5,Original Prestige product with good safety features and reliable performance.,10,1,0.17,101,16
+PR_0218,Reliance Digital,Prestige Induction Cooktop 1200W,4,The induction cooktop works well for daily cooking.,8,1,0.17,189,11
+PR_0219,Reliance Digital,Prestige Induction Cooktop 1200W,5,Highly recommended induction cooktop for regular household cooking.,8,1,0.24,84,56
+PR_0220,Flipkart,Prestige Induction Cooktop 1200W,5,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.24,194,59
+PR_0221,Flipkart,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.9,4,1
+PR_0222,Flipkart,Prestige Induction Cooktop 1200W,4,Heats fast and is energy efficient.,6,1,0.27,97,10
+PR_0223,Flipkart,Prestige Induction Cooktop 1200W,5,Good product and easy to use.,6,1,0.04,156,47
+PR_0224,Flipkart,Prestige Induction Cooktop 1200W,3,Decent quality cooktop for the price.,6,1,0.22,138,6
+PR_0225,Reliance Digital,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.84,2,0
+PR_0226,Flipkart,Prestige Induction Cooktop 1200W,5,Highly recommended induction cooktop for regular household cooking.,8,1,0.16,127,39
+PR_0227,Flipkart,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.94,4,0
+PR_0228,Flipkart,Prestige Induction Cooktop 1200W,4,Decent quality cooktop for the price.,6,1,0.18,180,26
+PR_0229,Reliance Digital,Prestige Induction Cooktop 1200W,4,Very nice induction must buy,5,0,0.82,5,2
+PR_0230,Flipkart,Prestige Induction Cooktop 1200W,3,Highly recommended induction cooktop for regular household cooking.,8,1,0.12,100,31
+PR_0231,Flipkart,Prestige Induction Cooktop 1200W,5,The induction cooktop works well for daily cooking.,8,1,0.18,182,12
+PR_0232,Flipkart,Prestige Induction Cooktop 1200W,4,Heats fast and is energy efficient.,6,1,0.06,121,31
+PR_0233,Flipkart,Prestige Induction Cooktop 1200W,4,Amazing cooktop best best best,5,0,0.68,2,2
+PR_0234,Flipkart,Prestige Induction Cooktop 1200W,4,Best induction cooktop ever buy now,6,0,0.87,5,0
+PR_0235,Flipkart,Prestige Induction Cooktop 1200W,5,Awesome awesome awesome,3,0,0.78,2,1
+PR_0236,Reliance Digital,Prestige Induction Cooktop 1200W,5,The induction cooktop works well for daily cooking.,8,1,0.05,27,12
+PR_0237,Reliance Digital,Prestige Induction Cooktop 1200W,4,Amazing cooktop best best best,5,0,0.67,3,1
+PR_0238,Reliance Digital,Prestige Induction Cooktop 1200W,3,The induction cooktop works well for daily cooking.,8,1,0.21,160,33
+PR_0239,Flipkart,Prestige Induction Cooktop 1200W,5,The induction cooktop works well for daily cooking.,8,1,0.18,41,34
+PR_0240,Flipkart,Prestige Induction Cooktop 1200W,4,Decent quality cooktop for the price.,6,1,0.27,39,58
+PR_0241,Reliance Digital,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.85,4,1
+PR_0242,Flipkart,Prestige Induction Cooktop 1200W,4,Best induction cooktop ever buy now,6,0,0.74,5,2
+PR_0243,Reliance Digital,Prestige Induction Cooktop 1200W,5,Very nice induction must buy,5,0,0.88,2,1
+PR_0244,Flipkart,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.74,3,1
+PR_0245,Flipkart,Prestige Induction Cooktop 1200W,3,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.1,137,58
+PR_0246,Flipkart,Prestige Induction Cooktop 1200W,4,Decent quality cooktop for the price.,6,1,0.22,127,29
+PR_0247,Reliance Digital,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.75,4,0
+PR_0248,Flipkart,Prestige Induction Cooktop 1200W,4,Highly recommended induction cooktop for regular household cooking.,8,1,0.18,175,40
+PR_0249,Flipkart,Prestige Induction Cooktop 1200W,4,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.18,155,45
+PR_0250,Flipkart,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.86,4,0
+PR_0251,Flipkart,Prestige Induction Cooktop 1200W,5,Good product and easy to use.,6,1,0.16,193,30
+PR_0252,Reliance Digital,Prestige Induction Cooktop 1200W,5,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.25,159,29
+PR_0253,Flipkart,Prestige Induction Cooktop 1200W,3,Satisfied with the performance.,4,1,0.02,111,16
+PR_0254,Reliance Digital,Prestige Induction Cooktop 1200W,5,Heats fast and is energy efficient.,6,1,0.25,67,43
+PR_0255,Reliance Digital,Prestige Induction Cooktop 1200W,3,Highly recommended induction cooktop for regular household cooking.,8,1,0.13,44,59
+PR_0256,Flipkart,Prestige Induction Cooktop 1200W,5,I have been using this Prestige induction cooktop for a few months and it works flawlessly. Heating is fast and cooking is very convenient.,24,1,0.15,171,26
+PR_0257,Flipkart,Prestige Induction Cooktop 1200W,5,The induction cooktop works well for daily cooking.,8,1,0.2,71,59
+PR_0258,Flipkart,Prestige Induction Cooktop 1200W,5,Very nice induction must buy,5,0,0.78,2,0
+PR_0259,Reliance Digital,Prestige Induction Cooktop 1200W,5,The induction cooktop works well for daily cooking.,8,1,0.18,184,40
+PR_0260,Reliance Digital,Prestige Induction Cooktop 1200W,3,Decent quality cooktop for the price.,6,1,0.1,146,35
+PR_0261,Reliance Digital,Prestige Induction Cooktop 1200W,3,The induction cooktop works well for daily cooking.,8,1,0.19,101,15
+PR_0262,Reliance Digital,Prestige Induction Cooktop 1200W,5,Satisfied with the performance.,4,1,0.13,181,44
+PR_0263,Flipkart,Prestige Induction Cooktop 1200W,4,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.21,153,29
+PR_0264,Flipkart,Prestige Induction Cooktop 1200W,3,Satisfied with the performance.,4,1,0.06,26,53
+PR_0265,Flipkart,Prestige Induction Cooktop 1200W,5,Amazing cooktop best best best,5,0,0.84,1,2
+PR_0266,Flipkart,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.67,1,0
+PR_0267,Reliance Digital,Prestige Induction Cooktop 1200W,4,Excellent induction cooktop from Prestige. Build quality is solid and temperature control is accurate.,14,1,0.09,65,21
+PR_0268,Reliance Digital,Prestige Induction Cooktop 1200W,5,Decent quality cooktop for the price.,6,1,0.28,90,28
+PR_0269,Flipkart,Prestige Induction Cooktop 1200W,5,Awesome awesome awesome,3,0,0.72,1,2
+PR_0270,Reliance Digital,Prestige Induction Cooktop 1200W,4,Decent quality cooktop for the price.,6,1,0.15,88,56
+PR_0271,Reliance Digital,Prestige Induction Cooktop 1200W,4,Decent quality cooktop for the price.,6,1,0.06,35,37
+PR_0272,Flipkart,Prestige Induction Cooktop 1200W,3,The induction cooktop works well for daily cooking.,8,1,0.18,66,22
+PR_0273,Flipkart,Prestige Induction Cooktop 1200W,5,Good product and easy to use.,6,1,0.14,39,39
+PR_0274,Flipkart,Prestige Induction Cooktop 1200W,4,Best induction cooktop ever buy now,6,0,0.87,3,0
+PR_0275,Reliance Digital,Prestige Induction Cooktop 1200W,5,Good product and easy to use.,6,1,0.23,112,38
+PR_0276,Flipkart,Prestige Induction Cooktop 1200W,4,Original Prestige product with good safety features and reliable performance.,10,1,0.26,146,21
+PR_0277,Reliance Digital,Prestige Induction Cooktop 1200W,5,Amazing cooktop best best best,5,0,0.65,1,2
+PR_0278,Flipkart,Prestige Induction Cooktop 1200W,3,Decent quality cooktop for the price.,6,1,0.13,111,5
+PR_0279,Flipkart,Prestige Induction Cooktop 1200W,3,Good product and easy to use.,6,1,0.05,155,54
+PR_0280,Flipkart,Prestige Induction Cooktop 1200W,3,Satisfied with the performance.,4,1,0.23,186,39
+PR_0281,Reliance Digital,Prestige Induction Cooktop 1200W,4,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.07,46,44
+PR_0282,Flipkart,Prestige Induction Cooktop 1200W,5,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.05,103,44
+PR_0283,Flipkart,Prestige Induction Cooktop 1200W,5,Good product and easy to use.,6,1,0.23,159,56
+PR_0284,Flipkart,Prestige Induction Cooktop 1200W,5,Best induction cooktop ever buy now,6,0,0.63,2,2
+PR_0285,Reliance Digital,Prestige Induction Cooktop 1200W,5,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.06,139,25
+PR_0286,Reliance Digital,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.67,1,1
+PR_0287,Flipkart,Prestige Induction Cooktop 1200W,3,Decent quality cooktop for the price.,6,1,0.3,62,31
+PR_0288,Flipkart,Prestige Induction Cooktop 1200W,4,Satisfied with the performance.,4,1,0.03,115,14
+PR_0289,Reliance Digital,Prestige Induction Cooktop 1200W,4,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.07,23,57
+PR_0290,Flipkart,Prestige Induction Cooktop 1200W,4,Amazing cooktop best best best,5,0,0.8,1,1
+PR_0291,Flipkart,Prestige Induction Cooktop 1200W,4,The induction cooktop works well for daily cooking.,8,1,0.08,116,21
+PR_0292,Reliance Digital,Prestige Induction Cooktop 1200W,5,Original Prestige product with good safety features and reliable performance.,10,1,0.19,21,35
+PR_0293,Reliance Digital,Prestige Induction Cooktop 1200W,3,The induction cooktop works well for daily cooking.,8,1,0.07,110,18
+PR_0294,Flipkart,Prestige Induction Cooktop 1200W,4,Best induction cooktop ever buy now,6,0,0.75,3,1
+PR_0295,Reliance Digital,Prestige Induction Cooktop 1200W,4,Best induction cooktop ever buy now,6,0,0.82,3,0
+PR_0296,Flipkart,Prestige Induction Cooktop 1200W,5,Amazing cooktop best best best,5,0,0.82,3,2
+PR_0297,Flipkart,Prestige Induction Cooktop 1200W,4,Very satisfied with this purchase. The cooktop is easy to clean and cooks food evenly.,15,1,0.02,190,29
+PR_0298,Reliance Digital,Prestige Induction Cooktop 1200W,4,Highly recommended induction cooktop for regular household cooking.,8,1,0.24,26,42
+PR_0299,Reliance Digital,Prestige Induction Cooktop 1200W,5,Amazing cooktop best best best,5,0,0.79,5,2
+PR_0300,Reliance Digital,Prestige Induction Cooktop 1200W,4,Nice nice nice nice,4,0,0.82,4,0

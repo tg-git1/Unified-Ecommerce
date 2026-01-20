@@ -1,0 +1,301 @@
+review_id,platform,product_name,rating,review_text,review_length,verified_purchase,duplicate_phrase_score,reviewer_history,review_post_gap
+SG_0001,Flipkart,SG English Willow Cricket Bat,5,Nice nice nice nice,4,0,0.82,4,0
+SG_0002,Snapdeal,SG English Willow Cricket Bat,5,Nice balance and decent quality for the price.,8,1,0.24,13,28
+SG_0003,Snapdeal,SG English Willow Cricket Bat,5,Good bat good bat,4,0,0.92,1,1
+SG_0004,Amazon,SG English Willow Cricket Bat,5,Super super quality very very nice,6,0,0.79,1,2
+SG_0005,Amazon,SG English Willow Cricket Bat,4,Very nice bat must buy,5,0,0.64,1,1
+SG_0006,Amazon,SG English Willow Cricket Bat,3,Nice balance and decent quality for the price.,8,1,0.06,19,35
+SG_0007,Amazon,SG English Willow Cricket Bat,5,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.2,178,53
+SG_0008,Flipkart,SG English Willow Cricket Bat,5,Excellent bat highly recommend,4,0,0.8,4,0
+SG_0009,Amazon,SG English Willow Cricket Bat,4,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.09,125,37
+SG_0010,Snapdeal,SG English Willow Cricket Bat,5,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.08,33,15
+SG_0011,Amazon,SG English Willow Cricket Bat,5,Very nice bat must buy,5,0,0.79,5,0
+SG_0012,Flipkart,SG English Willow Cricket Bat,5,Awesome awesome awesome,3,0,0.82,3,1
+SG_0013,Flipkart,SG English Willow Cricket Bat,5,Very nice bat must buy,5,0,0.92,2,1
+SG_0014,Flipkart,SG English Willow Cricket Bat,4,Satisfied with the bat quality.,5,1,0.16,178,20
+SG_0015,Snapdeal,SG English Willow Cricket Bat,5,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0,98,36
+SG_0016,Snapdeal,SG English Willow Cricket Bat,4,Nice balance and decent quality for the price.,8,1,0.05,27,33
+SG_0017,Amazon,SG English Willow Cricket Bat,5,Best cricket bat ever buy now,6,0,0.62,3,2
+SG_0018,Flipkart,SG English Willow Cricket Bat,3,Nice balance and decent quality for the price.,8,1,0.12,96,46
+SG_0019,Snapdeal,SG English Willow Cricket Bat,5,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.01,45,46
+SG_0020,Snapdeal,SG English Willow Cricket Bat,5,Good bat good bat,4,0,0.91,3,0
+SG_0021,Amazon,SG English Willow Cricket Bat,5,Overall a good purchase for casual players.,7,1,0.14,45,39
+SG_0022,Amazon,SG English Willow Cricket Bat,4,Amazing bat best best best,5,0,0.73,2,2
+SG_0023,Snapdeal,SG English Willow Cricket Bat,4,Satisfied with the bat quality.,5,1,0.07,159,31
+SG_0024,Flipkart,SG English Willow Cricket Bat,3,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.04,34,30
+SG_0025,Flipkart,SG English Willow Cricket Bat,5,Excellent bat highly recommend,4,0,0.88,1,0
+SG_0026,Flipkart,SG English Willow Cricket Bat,3,Good bat for practice matches.,5,1,0.12,66,44
+SG_0027,Amazon,SG English Willow Cricket Bat,4,Nice nice nice nice,4,0,0.67,5,0
+SG_0028,Flipkart,SG English Willow Cricket Bat,5,Overall a good purchase for casual players.,7,1,0.02,155,16
+SG_0029,Flipkart,SG English Willow Cricket Bat,5,Loved it loved it loved it,6,0,0.71,1,0
+SG_0030,Amazon,SG English Willow Cricket Bat,5,Good bat for practice matches.,5,1,0.25,150,36
+SG_0031,Amazon,SG English Willow Cricket Bat,5,The bat feels good and is suitable for beginners.,9,1,0.15,198,25
+SG_0032,Amazon,SG English Willow Cricket Bat,4,Loved it loved it loved it,6,0,0.78,5,0
+SG_0033,Amazon,SG English Willow Cricket Bat,3,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.02,178,31
+SG_0034,Amazon,SG English Willow Cricket Bat,5,Satisfied with the bat quality.,5,1,0.24,124,37
+SG_0035,Snapdeal,SG English Willow Cricket Bat,4,Satisfied with the bat quality.,5,1,0.13,142,37
+SG_0036,Amazon,SG English Willow Cricket Bat,4,Amazing bat best best best,5,0,0.62,4,0
+SG_0037,Snapdeal,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.22,126,56
+SG_0038,Snapdeal,SG English Willow Cricket Bat,3,Comfortable grip and decent performance.,5,1,0.07,177,10
+SG_0039,Flipkart,SG English Willow Cricket Bat,5,Super super quality very very nice,6,0,0.85,2,1
+SG_0040,Amazon,SG English Willow Cricket Bat,5,Comfortable grip and decent performance.,5,1,0.12,167,29
+SG_0041,Amazon,SG English Willow Cricket Bat,4,Good bat good bat,4,0,0.71,4,2
+SG_0042,Snapdeal,SG English Willow Cricket Bat,5,The bat feels good and is suitable for beginners.,9,1,0.16,168,29
+SG_0043,Amazon,SG English Willow Cricket Bat,4,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.21,62,48
+SG_0044,Amazon,SG English Willow Cricket Bat,4,Satisfied with the bat quality.,5,1,0.06,30,6
+SG_0045,Amazon,SG English Willow Cricket Bat,3,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.27,139,17
+SG_0046,Snapdeal,SG English Willow Cricket Bat,4,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.28,129,30
+SG_0047,Amazon,SG English Willow Cricket Bat,5,Good bat for practice matches.,5,1,0.2,180,29
+SG_0048,Amazon,SG English Willow Cricket Bat,4,Good bat good bat,4,0,0.61,3,0
+SG_0049,Flipkart,SG English Willow Cricket Bat,5,Comfortable grip and decent performance.,5,1,0.21,71,5
+SG_0050,Flipkart,SG English Willow Cricket Bat,5,Best cricket bat ever buy now,6,0,0.67,3,0
+SG_0051,Snapdeal,SG English Willow Cricket Bat,4,Nice nice nice nice,4,0,0.79,1,1
+SG_0052,Snapdeal,SG English Willow Cricket Bat,5,Works well for tennis ball cricket.,6,1,0.07,157,56
+SG_0053,Flipkart,SG English Willow Cricket Bat,4,I have been using this SG English Willow bat for several matches and the performance is excellent. The bat has good balance and solid stroke play.,26,1,0.2,28,10
+SG_0054,Snapdeal,SG English Willow Cricket Bat,5,Excellent bat highly recommend,4,0,0.89,5,2
+SG_0055,Amazon,SG English Willow Cricket Bat,4,Satisfied with the bat quality.,5,1,0.1,79,14
+SG_0056,Flipkart,SG English Willow Cricket Bat,4,Amazing bat best best best,5,0,0.91,1,2
+SG_0057,Amazon,SG English Willow Cricket Bat,4,Satisfied with the bat quality.,5,1,0.25,102,22
+SG_0058,Amazon,SG English Willow Cricket Bat,4,Loved it loved it loved it,6,0,0.77,4,0
+SG_0059,Snapdeal,SG English Willow Cricket Bat,4,Super super quality very very nice,6,0,0.79,4,0
+SG_0060,Flipkart,SG English Willow Cricket Bat,5,Good bat good bat,4,0,0.67,1,2
+SG_0061,Amazon,SG English Willow Cricket Bat,4,Super super quality very very nice,6,0,0.77,2,1
+SG_0062,Amazon,SG English Willow Cricket Bat,5,Nice balance and decent quality for the price.,8,1,0.2,175,44
+SG_0063,Amazon,SG English Willow Cricket Bat,4,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.06,128,49
+SG_0064,Flipkart,SG English Willow Cricket Bat,4,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.18,165,6
+SG_0065,Amazon,SG English Willow Cricket Bat,4,Worth it worth it worth it,6,0,0.78,4,0
+SG_0066,Flipkart,SG English Willow Cricket Bat,5,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.27,71,30
+SG_0067,Amazon,SG English Willow Cricket Bat,3,Satisfied with the bat quality.,5,1,0.24,102,41
+SG_0068,Amazon,SG English Willow Cricket Bat,3,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.23,180,52
+SG_0069,Flipkart,SG English Willow Cricket Bat,4,Worth it worth it worth it,6,0,0.78,5,1
+SG_0070,Flipkart,SG English Willow Cricket Bat,4,Nice nice nice nice,4,0,0.81,4,1
+SG_0071,Amazon,SG English Willow Cricket Bat,5,Nice nice nice nice,4,0,0.89,2,1
+SG_0072,Amazon,SG English Willow Cricket Bat,5,Excellent bat highly recommend,4,0,0.67,3,2
+SG_0073,Amazon,SG English Willow Cricket Bat,4,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.3,106,14
+SG_0074,Flipkart,SG English Willow Cricket Bat,5,Loved it loved it loved it,6,0,0.7,4,0
+SG_0075,Amazon,SG English Willow Cricket Bat,3,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.24,133,48
+SG_0076,Snapdeal,SG English Willow Cricket Bat,4,Overall a good purchase for casual players.,7,1,0.04,95,34
+SG_0077,Amazon,SG English Willow Cricket Bat,4,Comfortable grip and decent performance.,5,1,0.18,187,9
+SG_0078,Flipkart,SG English Willow Cricket Bat,3,Good bat for practice matches.,5,1,0.22,127,55
+SG_0079,Flipkart,SG English Willow Cricket Bat,4,Good bat for practice matches.,5,1,0.27,29,52
+SG_0080,Amazon,SG English Willow Cricket Bat,5,Nice balance and decent quality for the price.,8,1,0.23,77,11
+SG_0081,Snapdeal,SG English Willow Cricket Bat,5,Works well for tennis ball cricket.,6,1,0.06,137,54
+SG_0082,Flipkart,SG English Willow Cricket Bat,4,Super super quality very very nice,6,0,0.92,5,1
+SG_0083,Amazon,SG English Willow Cricket Bat,4,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.02,188,57
+SG_0084,Snapdeal,SG English Willow Cricket Bat,4,Loved it loved it loved it,6,0,0.83,1,2
+SG_0085,Amazon,SG English Willow Cricket Bat,5,Works well for tennis ball cricket.,6,1,0.29,105,32
+SG_0086,Snapdeal,SG English Willow Cricket Bat,4,Good bat for practice matches.,5,1,0.04,112,53
+SG_0087,Snapdeal,SG English Willow Cricket Bat,5,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.07,69,6
+SG_0088,Flipkart,SG English Willow Cricket Bat,4,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.27,32,27
+SG_0089,Amazon,SG English Willow Cricket Bat,4,Best cricket bat ever buy now,6,0,0.71,3,1
+SG_0090,Flipkart,SG English Willow Cricket Bat,3,Nice balance and decent quality for the price.,8,1,0.05,169,15
+SG_0091,Amazon,SG English Willow Cricket Bat,4,Nice balance and decent quality for the price.,8,1,0.16,39,45
+SG_0092,Amazon,SG English Willow Cricket Bat,3,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.21,63,39
+SG_0093,Snapdeal,SG English Willow Cricket Bat,3,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.18,34,20
+SG_0094,Snapdeal,SG English Willow Cricket Bat,3,Overall a good purchase for casual players.,7,1,0.28,188,47
+SG_0095,Amazon,SG English Willow Cricket Bat,4,Good bat for practice matches.,5,1,0.24,185,27
+SG_0096,Amazon,SG English Willow Cricket Bat,3,The bat feels good and is suitable for beginners.,9,1,0.27,158,35
+SG_0097,Amazon,SG English Willow Cricket Bat,4,I have been using this SG English Willow bat for several matches and the performance is excellent. The bat has good balance and solid stroke play.,26,1,0.23,75,54
+SG_0098,Amazon,SG English Willow Cricket Bat,4,Nice balance and decent quality for the price.,8,1,0.09,104,47
+SG_0099,Amazon,SG English Willow Cricket Bat,5,Overall a good purchase for casual players.,7,1,0.09,39,23
+SG_0100,Flipkart,SG English Willow Cricket Bat,4,Overall a good purchase for casual players.,7,1,0.24,194,14
+SG_0101,Flipkart,SG English Willow Cricket Bat,3,Good bat for practice matches.,5,1,0.2,123,19
+SG_0102,Flipkart,SG English Willow Cricket Bat,4,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.15,37,45
+SG_0103,Flipkart,SG English Willow Cricket Bat,5,Good bat for practice matches.,5,1,0.22,21,36
+SG_0104,Flipkart,SG English Willow Cricket Bat,5,Comfortable grip and decent performance.,5,1,0.06,14,32
+SG_0105,Snapdeal,SG English Willow Cricket Bat,4,Good bat good bat,4,0,0.67,3,0
+SG_0106,Flipkart,SG English Willow Cricket Bat,5,Super super quality very very nice,6,0,0.78,4,0
+SG_0107,Flipkart,SG English Willow Cricket Bat,5,Comfortable grip and decent performance.,5,1,0.04,104,59
+SG_0108,Flipkart,SG English Willow Cricket Bat,5,Very nice bat must buy,5,0,0.91,2,2
+SG_0109,Amazon,SG English Willow Cricket Bat,4,Overall a good purchase for casual players.,7,1,0.29,52,51
+SG_0110,Flipkart,SG English Willow Cricket Bat,5,Good bat for practice matches.,5,1,0.27,64,55
+SG_0111,Flipkart,SG English Willow Cricket Bat,4,I have been using this SG English Willow bat for several matches and the performance is excellent. The bat has good balance and solid stroke play.,26,1,0.27,106,17
+SG_0112,Snapdeal,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.11,85,54
+SG_0113,Snapdeal,SG English Willow Cricket Bat,4,Amazing bat best best best,5,0,0.86,2,1
+SG_0114,Snapdeal,SG English Willow Cricket Bat,5,Super super quality very very nice,6,0,0.64,5,2
+SG_0115,Amazon,SG English Willow Cricket Bat,5,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.12,110,51
+SG_0116,Flipkart,SG English Willow Cricket Bat,5,Amazing bat best best best,5,0,0.85,3,1
+SG_0117,Flipkart,SG English Willow Cricket Bat,4,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.16,176,45
+SG_0118,Amazon,SG English Willow Cricket Bat,4,Overall a good purchase for casual players.,7,1,0.03,51,5
+SG_0119,Amazon,SG English Willow Cricket Bat,4,Super super quality very very nice,6,0,0.84,5,0
+SG_0120,Flipkart,SG English Willow Cricket Bat,5,Loved it loved it loved it,6,0,0.84,2,0
+SG_0121,Flipkart,SG English Willow Cricket Bat,4,Nice balance and decent quality for the price.,8,1,0.03,197,24
+SG_0122,Amazon,SG English Willow Cricket Bat,5,Satisfied with the bat quality.,5,1,0.12,85,52
+SG_0123,Snapdeal,SG English Willow Cricket Bat,4,Super super quality very very nice,6,0,0.68,4,0
+SG_0124,Snapdeal,SG English Willow Cricket Bat,5,Satisfied with the bat quality.,5,1,0.28,56,16
+SG_0125,Snapdeal,SG English Willow Cricket Bat,5,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.27,31,50
+SG_0126,Amazon,SG English Willow Cricket Bat,3,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.25,40,44
+SG_0127,Amazon,SG English Willow Cricket Bat,5,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.04,172,5
+SG_0128,Snapdeal,SG English Willow Cricket Bat,5,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.03,114,28
+SG_0129,Flipkart,SG English Willow Cricket Bat,4,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.22,57,41
+SG_0130,Flipkart,SG English Willow Cricket Bat,4,Nice balance and decent quality for the price.,8,1,0.05,115,46
+SG_0131,Amazon,SG English Willow Cricket Bat,5,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.16,39,28
+SG_0132,Flipkart,SG English Willow Cricket Bat,4,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.27,127,26
+SG_0133,Flipkart,SG English Willow Cricket Bat,3,Nice balance and decent quality for the price.,8,1,0.2,131,22
+SG_0134,Flipkart,SG English Willow Cricket Bat,3,Works well for tennis ball cricket.,6,1,0.22,146,31
+SG_0135,Flipkart,SG English Willow Cricket Bat,4,Awesome awesome awesome,3,0,0.94,5,0
+SG_0136,Flipkart,SG English Willow Cricket Bat,4,Excellent bat highly recommend,4,0,0.75,5,1
+SG_0137,Flipkart,SG English Willow Cricket Bat,4,Loved it loved it loved it,6,0,0.83,1,1
+SG_0138,Flipkart,SG English Willow Cricket Bat,5,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.21,140,54
+SG_0139,Snapdeal,SG English Willow Cricket Bat,5,Satisfied with the bat quality.,5,1,0.13,185,59
+SG_0140,Snapdeal,SG English Willow Cricket Bat,5,Awesome awesome awesome,3,0,0.75,1,2
+SG_0141,Snapdeal,SG English Willow Cricket Bat,5,Satisfied with the bat quality.,5,1,0.2,76,51
+SG_0142,Flipkart,SG English Willow Cricket Bat,5,Works well for tennis ball cricket.,6,1,0.22,69,8
+SG_0143,Flipkart,SG English Willow Cricket Bat,5,Super super quality very very nice,6,0,0.79,5,0
+SG_0144,Flipkart,SG English Willow Cricket Bat,5,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.26,36,26
+SG_0145,Amazon,SG English Willow Cricket Bat,4,Loved it loved it loved it,6,0,0.66,5,2
+SG_0146,Flipkart,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.25,155,43
+SG_0147,Flipkart,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.25,128,55
+SG_0148,Snapdeal,SG English Willow Cricket Bat,5,Loved it loved it loved it,6,0,0.73,4,0
+SG_0149,Amazon,SG English Willow Cricket Bat,3,Satisfied with the bat quality.,5,1,0.2,174,37
+SG_0150,Snapdeal,SG English Willow Cricket Bat,5,Super super quality very very nice,6,0,0.61,4,2
+SG_0151,Flipkart,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.08,196,30
+SG_0152,Snapdeal,SG English Willow Cricket Bat,5,Worth it worth it worth it,6,0,0.77,3,0
+SG_0153,Snapdeal,SG English Willow Cricket Bat,3,Comfortable grip and decent performance.,5,1,0.24,82,44
+SG_0154,Snapdeal,SG English Willow Cricket Bat,4,Amazing bat best best best,5,0,0.87,5,1
+SG_0155,Snapdeal,SG English Willow Cricket Bat,5,Loved it loved it loved it,6,0,0.88,4,0
+SG_0156,Snapdeal,SG English Willow Cricket Bat,4,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.09,82,53
+SG_0157,Snapdeal,SG English Willow Cricket Bat,4,Very nice bat must buy,5,0,0.94,1,2
+SG_0158,Flipkart,SG English Willow Cricket Bat,4,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.1,118,26
+SG_0159,Amazon,SG English Willow Cricket Bat,5,The bat feels good and is suitable for beginners.,9,1,0.23,45,16
+SG_0160,Amazon,SG English Willow Cricket Bat,5,Nice nice nice nice,4,0,0.79,5,1
+SG_0161,Snapdeal,SG English Willow Cricket Bat,5,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.03,168,30
+SG_0162,Flipkart,SG English Willow Cricket Bat,4,Good bat good bat,4,0,0.68,2,0
+SG_0163,Snapdeal,SG English Willow Cricket Bat,4,Loved it loved it loved it,6,0,0.74,2,2
+SG_0164,Snapdeal,SG English Willow Cricket Bat,4,Very nice bat must buy,5,0,0.89,3,0
+SG_0165,Flipkart,SG English Willow Cricket Bat,5,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.1,105,35
+SG_0166,Flipkart,SG English Willow Cricket Bat,5,Worth it worth it worth it,6,0,0.91,1,1
+SG_0167,Amazon,SG English Willow Cricket Bat,4,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.21,30,42
+SG_0168,Amazon,SG English Willow Cricket Bat,4,Super super quality very very nice,6,0,0.71,1,0
+SG_0169,Flipkart,SG English Willow Cricket Bat,5,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.25,109,44
+SG_0170,Flipkart,SG English Willow Cricket Bat,3,I have been using this SG English Willow bat for several matches and the performance is excellent. The bat has good balance and solid stroke play.,26,1,0.08,187,45
+SG_0171,Flipkart,SG English Willow Cricket Bat,4,Comfortable grip and decent performance.,5,1,0.24,74,9
+SG_0172,Flipkart,SG English Willow Cricket Bat,5,Super super quality very very nice,6,0,0.68,2,1
+SG_0173,Flipkart,SG English Willow Cricket Bat,4,Amazing bat best best best,5,0,0.77,3,0
+SG_0174,Flipkart,SG English Willow Cricket Bat,5,Amazing bat best best best,5,0,0.65,5,0
+SG_0175,Flipkart,SG English Willow Cricket Bat,4,Super super quality very very nice,6,0,0.9,3,0
+SG_0176,Snapdeal,SG English Willow Cricket Bat,4,Good bat for practice matches.,5,1,0.13,81,24
+SG_0177,Amazon,SG English Willow Cricket Bat,4,Overall a good purchase for casual players.,7,1,0.25,56,60
+SG_0178,Snapdeal,SG English Willow Cricket Bat,5,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.07,76,45
+SG_0179,Amazon,SG English Willow Cricket Bat,4,Loved it loved it loved it,6,0,0.71,2,2
+SG_0180,Snapdeal,SG English Willow Cricket Bat,4,Overall a good purchase for casual players.,7,1,0.14,136,48
+SG_0181,Flipkart,SG English Willow Cricket Bat,4,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.25,142,32
+SG_0182,Snapdeal,SG English Willow Cricket Bat,4,Worth it worth it worth it,6,0,0.79,3,1
+SG_0183,Flipkart,SG English Willow Cricket Bat,4,Comfortable grip and decent performance.,5,1,0.28,82,6
+SG_0184,Snapdeal,SG English Willow Cricket Bat,4,Overall a good purchase for casual players.,7,1,0.2,27,26
+SG_0185,Flipkart,SG English Willow Cricket Bat,4,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.13,192,60
+SG_0186,Flipkart,SG English Willow Cricket Bat,3,Comfortable grip and decent performance.,5,1,0.07,176,37
+SG_0187,Amazon,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.26,30,29
+SG_0188,Snapdeal,SG English Willow Cricket Bat,4,Nice balance and decent quality for the price.,8,1,0.24,154,59
+SG_0189,Flipkart,SG English Willow Cricket Bat,5,Good bat for practice matches.,5,1,0.02,106,24
+SG_0190,Flipkart,SG English Willow Cricket Bat,5,Overall a good purchase for casual players.,7,1,0.1,86,48
+SG_0191,Snapdeal,SG English Willow Cricket Bat,4,The bat feels good and is suitable for beginners.,9,1,0.05,10,29
+SG_0192,Flipkart,SG English Willow Cricket Bat,4,Awesome awesome awesome,3,0,0.84,1,0
+SG_0193,Flipkart,SG English Willow Cricket Bat,4,Comfortable grip and decent performance.,5,1,0.02,167,48
+SG_0194,Snapdeal,SG English Willow Cricket Bat,5,The bat feels good and is suitable for beginners.,9,1,0.13,155,10
+SG_0195,Flipkart,SG English Willow Cricket Bat,5,The bat feels good and is suitable for beginners.,9,1,0.04,185,32
+SG_0196,Flipkart,SG English Willow Cricket Bat,5,Amazing bat best best best,5,0,0.95,5,2
+SG_0197,Amazon,SG English Willow Cricket Bat,5,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.23,170,53
+SG_0198,Snapdeal,SG English Willow Cricket Bat,5,Nice nice nice nice,4,0,0.73,4,0
+SG_0199,Flipkart,SG English Willow Cricket Bat,3,Satisfied with the bat quality.,5,1,0.01,66,8
+SG_0200,Flipkart,SG English Willow Cricket Bat,5,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.25,84,46
+SG_0201,Flipkart,SG English Willow Cricket Bat,3,Satisfied with the bat quality.,5,1,0.16,33,43
+SG_0202,Flipkart,SG English Willow Cricket Bat,4,Best cricket bat ever buy now,6,0,0.87,1,1
+SG_0203,Flipkart,SG English Willow Cricket Bat,5,Comfortable grip and decent performance.,5,1,0,194,49
+SG_0204,Snapdeal,SG English Willow Cricket Bat,3,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.04,110,11
+SG_0205,Amazon,SG English Willow Cricket Bat,5,Awesome awesome awesome,3,0,0.86,2,1
+SG_0206,Amazon,SG English Willow Cricket Bat,5,Loved it loved it loved it,6,0,0.8,2,0
+SG_0207,Flipkart,SG English Willow Cricket Bat,3,Good bat for practice matches.,5,1,0.24,175,22
+SG_0208,Snapdeal,SG English Willow Cricket Bat,4,Works well for tennis ball cricket.,6,1,0.15,93,16
+SG_0209,Amazon,SG English Willow Cricket Bat,5,Best cricket bat ever buy now,6,0,0.66,2,1
+SG_0210,Snapdeal,SG English Willow Cricket Bat,4,Good bat for practice matches.,5,1,0.24,78,17
+SG_0211,Amazon,SG English Willow Cricket Bat,3,Satisfied with the bat quality.,5,1,0.05,171,55
+SG_0212,Snapdeal,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.14,194,34
+SG_0213,Amazon,SG English Willow Cricket Bat,5,Good bat for practice matches.,5,1,0.06,182,46
+SG_0214,Snapdeal,SG English Willow Cricket Bat,4,Amazing bat best best best,5,0,0.82,5,1
+SG_0215,Amazon,SG English Willow Cricket Bat,5,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.24,145,37
+SG_0216,Amazon,SG English Willow Cricket Bat,4,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.24,165,56
+SG_0217,Amazon,SG English Willow Cricket Bat,4,Works well for tennis ball cricket.,6,1,0.19,126,13
+SG_0218,Snapdeal,SG English Willow Cricket Bat,3,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.15,129,56
+SG_0219,Flipkart,SG English Willow Cricket Bat,3,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.06,45,57
+SG_0220,Snapdeal,SG English Willow Cricket Bat,5,Best cricket bat ever buy now,6,0,0.73,2,2
+SG_0221,Amazon,SG English Willow Cricket Bat,5,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.04,72,31
+SG_0222,Snapdeal,SG English Willow Cricket Bat,5,Good bat for practice matches.,5,1,0.05,126,19
+SG_0223,Flipkart,SG English Willow Cricket Bat,4,Super super quality very very nice,6,0,0.61,1,1
+SG_0224,Flipkart,SG English Willow Cricket Bat,5,Awesome awesome awesome,3,0,0.7,3,1
+SG_0225,Amazon,SG English Willow Cricket Bat,5,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.08,180,29
+SG_0226,Snapdeal,SG English Willow Cricket Bat,4,Works well for tennis ball cricket.,6,1,0.23,187,31
+SG_0227,Snapdeal,SG English Willow Cricket Bat,4,Worth it worth it worth it,6,0,0.7,3,1
+SG_0228,Amazon,SG English Willow Cricket Bat,3,Good bat for practice matches.,5,1,0.12,30,9
+SG_0229,Snapdeal,SG English Willow Cricket Bat,5,Very nice bat must buy,5,0,0.61,4,2
+SG_0230,Flipkart,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.25,181,57
+SG_0231,Amazon,SG English Willow Cricket Bat,5,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.03,61,39
+SG_0232,Amazon,SG English Willow Cricket Bat,3,Comfortable grip and decent performance.,5,1,0.11,66,50
+SG_0233,Flipkart,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.07,106,30
+SG_0234,Amazon,SG English Willow Cricket Bat,5,Satisfied with the bat quality.,5,1,0.13,43,14
+SG_0235,Amazon,SG English Willow Cricket Bat,3,Works well for tennis ball cricket.,6,1,0.3,12,39
+SG_0236,Snapdeal,SG English Willow Cricket Bat,4,Excellent bat highly recommend,4,0,0.94,4,0
+SG_0237,Flipkart,SG English Willow Cricket Bat,4,Excellent bat highly recommend,4,0,0.6,2,0
+SG_0238,Snapdeal,SG English Willow Cricket Bat,5,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.25,87,47
+SG_0239,Snapdeal,SG English Willow Cricket Bat,5,Very nice bat must buy,5,0,0.6,4,1
+SG_0240,Snapdeal,SG English Willow Cricket Bat,5,Nice balance and decent quality for the price.,8,1,0.2,176,59
+SG_0241,Snapdeal,SG English Willow Cricket Bat,5,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.08,131,26
+SG_0242,Snapdeal,SG English Willow Cricket Bat,3,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.06,95,39
+SG_0243,Snapdeal,SG English Willow Cricket Bat,3,Comfortable grip and decent performance.,5,1,0.09,149,12
+SG_0244,Amazon,SG English Willow Cricket Bat,4,Excellent quality English willow bat. The grains are visible and the bat performs very well with leather ball.,18,1,0.19,136,34
+SG_0245,Flipkart,SG English Willow Cricket Bat,5,Awesome awesome awesome,3,0,0.89,1,2
+SG_0246,Flipkart,SG English Willow Cricket Bat,5,Excellent bat highly recommend,4,0,0.72,4,2
+SG_0247,Snapdeal,SG English Willow Cricket Bat,3,Overall a good purchase for casual players.,7,1,0.04,145,24
+SG_0248,Flipkart,SG English Willow Cricket Bat,3,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.28,36,20
+SG_0249,Snapdeal,SG English Willow Cricket Bat,4,Good bat good bat,4,0,0.76,3,0
+SG_0250,Amazon,SG English Willow Cricket Bat,3,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.02,129,49
+SG_0251,Snapdeal,SG English Willow Cricket Bat,4,Awesome awesome awesome,3,0,0.93,1,2
+SG_0252,Amazon,SG English Willow Cricket Bat,5,Overall a good purchase for casual players.,7,1,0.2,21,13
+SG_0253,Flipkart,SG English Willow Cricket Bat,5,Amazing bat best best best,5,0,0.77,2,0
+SG_0254,Snapdeal,SG English Willow Cricket Bat,5,Nice nice nice nice,4,0,0.82,5,0
+SG_0255,Amazon,SG English Willow Cricket Bat,5,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.01,24,9
+SG_0256,Flipkart,SG English Willow Cricket Bat,5,Nice nice nice nice,4,0,0.7,5,0
+SG_0257,Snapdeal,SG English Willow Cricket Bat,5,Awesome awesome awesome,3,0,0.85,4,0
+SG_0258,Snapdeal,SG English Willow Cricket Bat,5,Overall a good purchase for casual players.,7,1,0.19,47,48
+SG_0259,Flipkart,SG English Willow Cricket Bat,3,Comfortable grip and decent performance.,5,1,0.2,38,8
+SG_0260,Snapdeal,SG English Willow Cricket Bat,5,Loved it loved it loved it,6,0,0.72,1,2
+SG_0261,Flipkart,SG English Willow Cricket Bat,3,I have been using this SG English Willow bat for several matches and the performance is excellent. The bat has good balance and solid stroke play.,26,1,0.04,98,55
+SG_0262,Snapdeal,SG English Willow Cricket Bat,5,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.03,36,15
+SG_0263,Amazon,SG English Willow Cricket Bat,5,Loved it loved it loved it,6,0,0.65,1,1
+SG_0264,Amazon,SG English Willow Cricket Bat,4,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.13,141,52
+SG_0265,Flipkart,SG English Willow Cricket Bat,4,Loved it loved it loved it,6,0,0.61,2,2
+SG_0266,Snapdeal,SG English Willow Cricket Bat,4,Nice nice nice nice,4,0,0.95,2,1
+SG_0267,Flipkart,SG English Willow Cricket Bat,4,Overall a good purchase for casual players.,7,1,0.12,77,29
+SG_0268,Snapdeal,SG English Willow Cricket Bat,3,Works well for tennis ball cricket.,6,1,0.25,100,43
+SG_0269,Snapdeal,SG English Willow Cricket Bat,5,Overall a good purchase for casual players.,7,1,0.24,158,32
+SG_0270,Snapdeal,SG English Willow Cricket Bat,3,Nice balance and decent quality for the price.,8,1,0.16,162,17
+SG_0271,Flipkart,SG English Willow Cricket Bat,4,Excellent bat highly recommend,4,0,0.91,2,2
+SG_0272,Amazon,SG English Willow Cricket Bat,5,Satisfied with the bat quality.,5,1,0.22,161,41
+SG_0273,Flipkart,SG English Willow Cricket Bat,4,Good bat good bat,4,0,0.9,4,0
+SG_0274,Flipkart,SG English Willow Cricket Bat,3,Comfortable grip and decent performance.,5,1,0.07,97,30
+SG_0275,Snapdeal,SG English Willow Cricket Bat,4,The bat feels good and is suitable for beginners.,9,1,0.22,179,31
+SG_0276,Snapdeal,SG English Willow Cricket Bat,3,Nice balance and decent quality for the price.,8,1,0.09,186,53
+SG_0277,Snapdeal,SG English Willow Cricket Bat,4,Very nice bat must buy,5,0,0.8,5,1
+SG_0278,Flipkart,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.21,171,60
+SG_0279,Snapdeal,SG English Willow Cricket Bat,4,Good bat for practice matches.,5,1,0.21,50,35
+SG_0280,Flipkart,SG English Willow Cricket Bat,4,Worth it worth it worth it,6,0,0.86,2,1
+SG_0281,Snapdeal,SG English Willow Cricket Bat,4,Overall a good purchase for casual players.,7,1,0.23,167,53
+SG_0282,Amazon,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.15,156,15
+SG_0283,Flipkart,SG English Willow Cricket Bat,4,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.23,148,6
+SG_0284,Flipkart,SG English Willow Cricket Bat,5,Good bat for practice matches.,5,1,0.02,91,48
+SG_0285,Snapdeal,SG English Willow Cricket Bat,5,Very nice bat must buy,5,0,0.85,5,1
+SG_0286,Snapdeal,SG English Willow Cricket Bat,4,Awesome awesome awesome,3,0,0.6,2,1
+SG_0287,Flipkart,SG English Willow Cricket Bat,5,Good bat for practice matches.,5,1,0.1,199,29
+SG_0288,Snapdeal,SG English Willow Cricket Bat,5,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.24,147,45
+SG_0289,Snapdeal,SG English Willow Cricket Bat,3,Overall a good purchase for casual players.,7,1,0.05,91,41
+SG_0290,Amazon,SG English Willow Cricket Bat,5,Overall a good purchase for casual players.,7,1,0.3,92,24
+SG_0291,Flipkart,SG English Willow Cricket Bat,4,Very satisfied with the purchase. The bat feels premium and provides good power and control.,15,1,0.12,160,29
+SG_0292,Flipkart,SG English Willow Cricket Bat,4,Best cricket bat ever buy now,6,0,0.87,1,0
+SG_0293,Flipkart,SG English Willow Cricket Bat,4,The bat feels good and is suitable for beginners.,9,1,0.02,190,54
+SG_0294,Snapdeal,SG English Willow Cricket Bat,3,I have been using this SG English Willow bat for several matches and the performance is excellent. The bat has good balance and solid stroke play.,26,1,0.3,126,38
+SG_0295,Flipkart,SG English Willow Cricket Bat,5,Worth it worth it worth it,6,0,0.68,1,2
+SG_0296,Amazon,SG English Willow Cricket Bat,3,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.12,42,20
+SG_0297,Flipkart,SG English Willow Cricket Bat,4,Works well for tennis ball cricket.,6,1,0.06,119,41
+SG_0298,Flipkart,SG English Willow Cricket Bat,5,Original SG bat with good willow quality. Highly recommended for intermediate players.,12,1,0.04,31,37
+SG_0299,Snapdeal,SG English Willow Cricket Bat,5,Used this bat in club-level matches and it performs consistently. Grip quality and balance are impressive.,16,1,0.08,83,30
+SG_0300,Snapdeal,SG English Willow Cricket Bat,4,I have been using this SG English Willow bat for several matches and the performance is excellent. The bat has good balance and solid stroke play.,26,1,0.1,46,56

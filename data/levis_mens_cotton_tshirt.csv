@@ -1,0 +1,301 @@
+review_id,platform,product_name,rating,review_text,review_length,verified_purchase,duplicate_phrase_score,reviewer_history,review_post_gap
+LV_0001,Amazon,Levi's Men's Cotton T-Shirt,4,Good quality cotton t-shirt for daily wear.,7,1,0.27,158,27
+LV_0002,Flipkart,Levi's Men's Cotton T-Shirt,5,Good quality cotton t-shirt for daily wear.,7,1,0.18,93,36
+LV_0003,Flipkart,Levi's Men's Cotton T-Shirt,3,Decent t-shirt for casual outings.,5,1,0.02,69,15
+LV_0004,Flipkart,Levi's Men's Cotton T-Shirt,5,Original Levi's product with great comfort and durability.,8,1,0.06,103,20
+LV_0005,Myntra,Levi's Men's Cotton T-Shirt,3,The t-shirt material is comfortable and fits well.,8,1,0.13,97,18
+LV_0006,Amazon,Levi's Men's Cotton T-Shirt,4,Comfortable for regular use.,4,1,0.12,117,19
+LV_0007,Amazon,Levi's Men's Cotton T-Shirt,5,Decent t-shirt for casual outings.,5,1,0,138,18
+LV_0008,Flipkart,Levi's Men's Cotton T-Shirt,4,The t-shirt material is comfortable and fits well.,8,1,0.11,112,5
+LV_0009,Flipkart,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.05,36,53
+LV_0010,Flipkart,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.27,165,35
+LV_0011,Amazon,Levi's Men's Cotton T-Shirt,5,Original Levi's product with great comfort and durability.,8,1,0.26,66,49
+LV_0012,Flipkart,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.01,108,39
+LV_0013,Flipkart,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.2,176,54
+LV_0014,Flipkart,Levi's Men's Cotton T-Shirt,5,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.21,71,52
+LV_0015,Flipkart,Levi's Men's Cotton T-Shirt,4,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.02,58,24
+LV_0016,Flipkart,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.79,3,1
+LV_0017,Flipkart,Levi's Men's Cotton T-Shirt,5,Awesome awesome awesome,3,0,0.63,2,1
+LV_0018,Myntra,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.29,101,20
+LV_0019,Flipkart,Levi's Men's Cotton T-Shirt,5,Good quality cotton t-shirt for daily wear.,7,1,0,182,30
+LV_0020,Flipkart,Levi's Men's Cotton T-Shirt,4,The t-shirt material is comfortable and fits well.,8,1,0.24,81,55
+LV_0021,Flipkart,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.18,100,26
+LV_0022,Flipkart,Levi's Men's Cotton T-Shirt,4,Awesome awesome awesome,3,0,0.91,4,2
+LV_0023,Amazon,Levi's Men's Cotton T-Shirt,4,Good quality cotton t-shirt for daily wear.,7,1,0.04,50,14
+LV_0024,Myntra,Levi's Men's Cotton T-Shirt,5,Decent t-shirt for casual outings.,5,1,0.26,71,48
+LV_0025,Myntra,Levi's Men's Cotton T-Shirt,5,Satisfied with the fabric quality.,5,1,0.06,137,39
+LV_0026,Flipkart,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.22,81,32
+LV_0027,Flipkart,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.07,168,26
+LV_0028,Amazon,Levi's Men's Cotton T-Shirt,4,The t-shirt material is comfortable and fits well.,8,1,0.08,72,7
+LV_0029,Amazon,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.83,5,0
+LV_0030,Flipkart,Levi's Men's Cotton T-Shirt,4,Awesome awesome awesome,3,0,0.81,1,2
+LV_0031,Amazon,Levi's Men's Cotton T-Shirt,4,The t-shirt material is comfortable and fits well.,8,1,0.04,126,11
+LV_0032,Flipkart,Levi's Men's Cotton T-Shirt,4,Very nice tshirt must buy,5,0,0.83,5,0
+LV_0033,Flipkart,Levi's Men's Cotton T-Shirt,5,Good quality cotton t-shirt for daily wear.,7,1,0.22,170,55
+LV_0034,Flipkart,Levi's Men's Cotton T-Shirt,5,The t-shirt material is comfortable and fits well.,8,1,0.3,152,50
+LV_0035,Flipkart,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.93,3,2
+LV_0036,Amazon,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.03,30,33
+LV_0037,Myntra,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.23,199,8
+LV_0038,Flipkart,Levi's Men's Cotton T-Shirt,3,The t-shirt material is comfortable and fits well.,8,1,0.3,96,23
+LV_0039,Myntra,Levi's Men's Cotton T-Shirt,5,The stitching and material quality are impressive for daily wear.,10,1,0.2,117,14
+LV_0040,Flipkart,Levi's Men's Cotton T-Shirt,3,Good quality cotton t-shirt for daily wear.,7,1,0.09,81,35
+LV_0041,Myntra,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.05,132,36
+LV_0042,Myntra,Levi's Men's Cotton T-Shirt,4,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.1,29,19
+LV_0043,Flipkart,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.64,5,2
+LV_0044,Myntra,Levi's Men's Cotton T-Shirt,5,Comfortable for regular use.,4,1,0.25,34,34
+LV_0045,Myntra,Levi's Men's Cotton T-Shirt,4,Amazing tshirt best best best,5,0,0.73,1,1
+LV_0046,Flipkart,Levi's Men's Cotton T-Shirt,4,Amazing tshirt best best best,5,0,0.73,4,1
+LV_0047,Myntra,Levi's Men's Cotton T-Shirt,5,Decent t-shirt for casual outings.,5,1,0.08,74,48
+LV_0048,Myntra,Levi's Men's Cotton T-Shirt,4,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.23,152,47
+LV_0049,Amazon,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.26,154,7
+LV_0050,Myntra,Levi's Men's Cotton T-Shirt,4,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.23,145,23
+LV_0051,Flipkart,Levi's Men's Cotton T-Shirt,3,Good quality cotton t-shirt for daily wear.,7,1,0.11,142,20
+LV_0052,Amazon,Levi's Men's Cotton T-Shirt,5,The stitching and material quality are impressive for daily wear.,10,1,0.03,143,11
+LV_0053,Flipkart,Levi's Men's Cotton T-Shirt,4,The stitching and material quality are impressive for daily wear.,10,1,0.08,108,58
+LV_0054,Flipkart,Levi's Men's Cotton T-Shirt,4,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.26,157,37
+LV_0055,Flipkart,Levi's Men's Cotton T-Shirt,3,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.11,169,11
+LV_0056,Flipkart,Levi's Men's Cotton T-Shirt,5,Very nice tshirt must buy,5,0,0.79,5,2
+LV_0057,Flipkart,Levi's Men's Cotton T-Shirt,3,The t-shirt material is comfortable and fits well.,8,1,0.06,33,40
+LV_0058,Flipkart,Levi's Men's Cotton T-Shirt,4,Very nice tshirt must buy,5,0,0.77,3,0
+LV_0059,Amazon,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.77,1,0
+LV_0060,Flipkart,Levi's Men's Cotton T-Shirt,3,Good quality cotton t-shirt for daily wear.,7,1,0.2,21,25
+LV_0061,Myntra,Levi's Men's Cotton T-Shirt,4,Very nice tshirt must buy,5,0,0.95,4,0
+LV_0062,Myntra,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.72,4,1
+LV_0063,Amazon,Levi's Men's Cotton T-Shirt,4,Awesome awesome awesome,3,0,0.78,4,0
+LV_0064,Flipkart,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.13,66,21
+LV_0065,Flipkart,Levi's Men's Cotton T-Shirt,4,Satisfied with the fabric quality.,5,1,0.06,46,10
+LV_0066,Flipkart,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.09,178,13
+LV_0067,Flipkart,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.72,1,2
+LV_0068,Myntra,Levi's Men's Cotton T-Shirt,4,Original Levi's product with great comfort and durability.,8,1,0.23,64,8
+LV_0069,Flipkart,Levi's Men's Cotton T-Shirt,5,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.24,184,59
+LV_0070,Flipkart,Levi's Men's Cotton T-Shirt,4,Good quality cotton t-shirt for daily wear.,7,1,0.24,64,5
+LV_0071,Flipkart,Levi's Men's Cotton T-Shirt,3,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.09,132,25
+LV_0072,Myntra,Levi's Men's Cotton T-Shirt,5,Comfortable for regular use.,4,1,0.21,29,49
+LV_0073,Amazon,Levi's Men's Cotton T-Shirt,3,The t-shirt material is comfortable and fits well.,8,1,0.11,166,25
+LV_0074,Flipkart,Levi's Men's Cotton T-Shirt,4,Nice nice nice nice,4,0,0.73,2,1
+LV_0075,Myntra,Levi's Men's Cotton T-Shirt,5,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.27,54,38
+LV_0076,Flipkart,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.64,2,1
+LV_0077,Flipkart,Levi's Men's Cotton T-Shirt,4,Comfortable for regular use.,4,1,0.18,115,41
+LV_0078,Amazon,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.16,77,32
+LV_0079,Amazon,Levi's Men's Cotton T-Shirt,3,Good quality cotton t-shirt for daily wear.,7,1,0.07,104,55
+LV_0080,Myntra,Levi's Men's Cotton T-Shirt,3,Original Levi's product with great comfort and durability.,8,1,0.02,157,22
+LV_0081,Myntra,Levi's Men's Cotton T-Shirt,4,Very nice tshirt must buy,5,0,0.68,1,2
+LV_0082,Flipkart,Levi's Men's Cotton T-Shirt,3,Decent t-shirt for casual outings.,5,1,0.02,107,53
+LV_0083,Amazon,Levi's Men's Cotton T-Shirt,4,The stitching and material quality are impressive for daily wear.,10,1,0.12,105,51
+LV_0084,Amazon,Levi's Men's Cotton T-Shirt,5,Comfortable for regular use.,4,1,0.09,140,54
+LV_0085,Amazon,Levi's Men's Cotton T-Shirt,3,Good quality cotton t-shirt for daily wear.,7,1,0.01,145,15
+LV_0086,Flipkart,Levi's Men's Cotton T-Shirt,3,Good quality cotton t-shirt for daily wear.,7,1,0.27,171,23
+LV_0087,Myntra,Levi's Men's Cotton T-Shirt,4,The stitching and material quality are impressive for daily wear.,10,1,0.02,61,60
+LV_0088,Myntra,Levi's Men's Cotton T-Shirt,5,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.03,71,48
+LV_0089,Flipkart,Levi's Men's Cotton T-Shirt,4,Very nice tshirt must buy,5,0,0.72,5,2
+LV_0090,Flipkart,Levi's Men's Cotton T-Shirt,4,Very nice tshirt must buy,5,0,0.75,5,2
+LV_0091,Flipkart,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.63,4,0
+LV_0092,Amazon,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.18,148,60
+LV_0093,Flipkart,Levi's Men's Cotton T-Shirt,5,Decent t-shirt for casual outings.,5,1,0.04,186,34
+LV_0094,Amazon,Levi's Men's Cotton T-Shirt,5,Comfortable for regular use.,4,1,0.16,160,34
+LV_0095,Amazon,Levi's Men's Cotton T-Shirt,4,Nice nice nice nice,4,0,0.66,2,2
+LV_0096,Myntra,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.21,53,24
+LV_0097,Flipkart,Levi's Men's Cotton T-Shirt,4,Amazing tshirt best best best,5,0,0.64,2,2
+LV_0098,Amazon,Levi's Men's Cotton T-Shirt,4,The stitching and material quality are impressive for daily wear.,10,1,0.03,198,59
+LV_0099,Myntra,Levi's Men's Cotton T-Shirt,4,Awesome awesome awesome,3,0,0.66,5,1
+LV_0100,Amazon,Levi's Men's Cotton T-Shirt,3,The t-shirt material is comfortable and fits well.,8,1,0.25,50,50
+LV_0101,Amazon,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.27,92,45
+LV_0102,Myntra,Levi's Men's Cotton T-Shirt,4,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.2,48,36
+LV_0103,Myntra,Levi's Men's Cotton T-Shirt,3,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.23,104,53
+LV_0104,Amazon,Levi's Men's Cotton T-Shirt,5,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.1,57,16
+LV_0105,Flipkart,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.2,160,45
+LV_0106,Myntra,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.05,142,25
+LV_0107,Amazon,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.94,3,1
+LV_0108,Myntra,Levi's Men's Cotton T-Shirt,4,Awesome awesome awesome,3,0,0.67,3,0
+LV_0109,Flipkart,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.86,5,2
+LV_0110,Myntra,Levi's Men's Cotton T-Shirt,3,Original Levi's product with great comfort and durability.,8,1,0.08,154,7
+LV_0111,Amazon,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.16,47,21
+LV_0112,Amazon,Levi's Men's Cotton T-Shirt,5,Awesome awesome awesome,3,0,0.65,5,1
+LV_0113,Amazon,Levi's Men's Cotton T-Shirt,5,Comfortable for regular use.,4,1,0.21,166,40
+LV_0114,Myntra,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.63,1,1
+LV_0115,Amazon,Levi's Men's Cotton T-Shirt,4,The stitching and material quality are impressive for daily wear.,10,1,0.02,145,55
+LV_0116,Flipkart,Levi's Men's Cotton T-Shirt,5,Awesome awesome awesome,3,0,0.79,4,2
+LV_0117,Amazon,Levi's Men's Cotton T-Shirt,4,Decent t-shirt for casual outings.,5,1,0.2,82,28
+LV_0118,Myntra,Levi's Men's Cotton T-Shirt,4,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.01,130,35
+LV_0119,Flipkart,Levi's Men's Cotton T-Shirt,4,Satisfied with the fabric quality.,5,1,0.17,65,55
+LV_0120,Amazon,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.09,177,56
+LV_0121,Amazon,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.29,98,38
+LV_0122,Amazon,Levi's Men's Cotton T-Shirt,3,Good quality cotton t-shirt for daily wear.,7,1,0.11,178,51
+LV_0123,Amazon,Levi's Men's Cotton T-Shirt,5,Awesome awesome awesome,3,0,0.71,3,2
+LV_0124,Myntra,Levi's Men's Cotton T-Shirt,4,Satisfied with the fabric quality.,5,1,0.17,194,14
+LV_0125,Amazon,Levi's Men's Cotton T-Shirt,4,Satisfied with the fabric quality.,5,1,0.15,120,36
+LV_0126,Amazon,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.21,155,30
+LV_0127,Amazon,Levi's Men's Cotton T-Shirt,4,Amazing tshirt best best best,5,0,0.68,2,1
+LV_0128,Myntra,Levi's Men's Cotton T-Shirt,5,Very nice tshirt must buy,5,0,0.62,3,1
+LV_0129,Amazon,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.02,112,7
+LV_0130,Flipkart,Levi's Men's Cotton T-Shirt,5,The t-shirt material is comfortable and fits well.,8,1,0.25,142,30
+LV_0131,Flipkart,Levi's Men's Cotton T-Shirt,3,The t-shirt material is comfortable and fits well.,8,1,0.22,176,15
+LV_0132,Amazon,Levi's Men's Cotton T-Shirt,4,Comfortable for regular use.,4,1,0.15,70,58
+LV_0133,Flipkart,Levi's Men's Cotton T-Shirt,4,Good quality cotton t-shirt for daily wear.,7,1,0.02,76,44
+LV_0134,Myntra,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.1,96,40
+LV_0135,Amazon,Levi's Men's Cotton T-Shirt,3,Decent t-shirt for casual outings.,5,1,0.15,148,43
+LV_0136,Amazon,Levi's Men's Cotton T-Shirt,4,Amazing tshirt best best best,5,0,0.74,1,1
+LV_0137,Myntra,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.1,77,22
+LV_0138,Flipkart,Levi's Men's Cotton T-Shirt,5,Best tshirt ever buy now,5,0,0.94,2,0
+LV_0139,Flipkart,Levi's Men's Cotton T-Shirt,4,The t-shirt material is comfortable and fits well.,8,1,0.27,148,27
+LV_0140,Myntra,Levi's Men's Cotton T-Shirt,3,Good quality cotton t-shirt for daily wear.,7,1,0.05,32,28
+LV_0141,Flipkart,Levi's Men's Cotton T-Shirt,5,The t-shirt material is comfortable and fits well.,8,1,0.03,112,45
+LV_0142,Amazon,Levi's Men's Cotton T-Shirt,4,Very nice tshirt must buy,5,0,0.74,1,2
+LV_0143,Amazon,Levi's Men's Cotton T-Shirt,5,Original Levi's product with great comfort and durability.,8,1,0.29,117,56
+LV_0144,Amazon,Levi's Men's Cotton T-Shirt,5,Decent t-shirt for casual outings.,5,1,0.27,134,52
+LV_0145,Myntra,Levi's Men's Cotton T-Shirt,4,Very nice tshirt must buy,5,0,0.76,3,0
+LV_0146,Amazon,Levi's Men's Cotton T-Shirt,4,Nice nice nice nice,4,0,0.7,5,2
+LV_0147,Amazon,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.86,2,1
+LV_0148,Amazon,Levi's Men's Cotton T-Shirt,4,Amazing tshirt best best best,5,0,0.72,2,1
+LV_0149,Amazon,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.22,66,10
+LV_0150,Amazon,Levi's Men's Cotton T-Shirt,4,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.15,66,53
+LV_0151,Flipkart,Levi's Men's Cotton T-Shirt,3,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.09,110,52
+LV_0152,Flipkart,Levi's Men's Cotton T-Shirt,4,Satisfied with the fabric quality.,5,1,0.12,23,27
+LV_0153,Amazon,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.79,4,0
+LV_0154,Amazon,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.07,119,47
+LV_0155,Myntra,Levi's Men's Cotton T-Shirt,5,Comfortable for regular use.,4,1,0.14,172,30
+LV_0156,Amazon,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.23,35,33
+LV_0157,Myntra,Levi's Men's Cotton T-Shirt,4,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.3,20,25
+LV_0158,Amazon,Levi's Men's Cotton T-Shirt,5,Good quality cotton t-shirt for daily wear.,7,1,0.1,69,29
+LV_0159,Amazon,Levi's Men's Cotton T-Shirt,5,Satisfied with the fabric quality.,5,1,0.26,21,27
+LV_0160,Myntra,Levi's Men's Cotton T-Shirt,5,Good quality cotton t-shirt for daily wear.,7,1,0.1,24,24
+LV_0161,Myntra,Levi's Men's Cotton T-Shirt,4,Good quality cotton t-shirt for daily wear.,7,1,0.04,120,39
+LV_0162,Amazon,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.04,20,35
+LV_0163,Myntra,Levi's Men's Cotton T-Shirt,3,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0,113,27
+LV_0164,Amazon,Levi's Men's Cotton T-Shirt,5,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.05,49,48
+LV_0165,Myntra,Levi's Men's Cotton T-Shirt,3,Decent t-shirt for casual outings.,5,1,0.28,44,49
+LV_0166,Myntra,Levi's Men's Cotton T-Shirt,5,The t-shirt material is comfortable and fits well.,8,1,0.26,82,58
+LV_0167,Amazon,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.24,198,50
+LV_0168,Amazon,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.72,1,1
+LV_0169,Amazon,Levi's Men's Cotton T-Shirt,5,Satisfied with the fabric quality.,5,1,0.28,91,37
+LV_0170,Amazon,Levi's Men's Cotton T-Shirt,3,The t-shirt material is comfortable and fits well.,8,1,0.29,105,14
+LV_0171,Myntra,Levi's Men's Cotton T-Shirt,5,Awesome awesome awesome,3,0,0.77,5,2
+LV_0172,Flipkart,Levi's Men's Cotton T-Shirt,5,Original Levi's product with great comfort and durability.,8,1,0.23,147,55
+LV_0173,Amazon,Levi's Men's Cotton T-Shirt,3,Good quality cotton t-shirt for daily wear.,7,1,0.21,122,35
+LV_0174,Myntra,Levi's Men's Cotton T-Shirt,3,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.1,130,54
+LV_0175,Myntra,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.28,62,6
+LV_0176,Myntra,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.12,32,57
+LV_0177,Amazon,Levi's Men's Cotton T-Shirt,5,Very nice tshirt must buy,5,0,0.77,1,0
+LV_0178,Myntra,Levi's Men's Cotton T-Shirt,5,Comfortable for regular use.,4,1,0.13,153,36
+LV_0179,Flipkart,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.79,4,1
+LV_0180,Amazon,Levi's Men's Cotton T-Shirt,3,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.22,121,6
+LV_0181,Amazon,Levi's Men's Cotton T-Shirt,4,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.17,21,18
+LV_0182,Myntra,Levi's Men's Cotton T-Shirt,4,Original Levi's product with great comfort and durability.,8,1,0.2,82,39
+LV_0183,Amazon,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.87,1,1
+LV_0184,Amazon,Levi's Men's Cotton T-Shirt,5,Satisfied with the fabric quality.,5,1,0.05,151,38
+LV_0185,Amazon,Levi's Men's Cotton T-Shirt,4,Comfortable for regular use.,4,1,0.1,141,47
+LV_0186,Myntra,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.21,33,32
+LV_0187,Amazon,Levi's Men's Cotton T-Shirt,5,Awesome awesome awesome,3,0,0.77,5,0
+LV_0188,Amazon,Levi's Men's Cotton T-Shirt,4,The stitching and material quality are impressive for daily wear.,10,1,0.11,140,15
+LV_0189,Amazon,Levi's Men's Cotton T-Shirt,4,Amazing tshirt best best best,5,0,0.73,1,2
+LV_0190,Myntra,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.23,123,6
+LV_0191,Amazon,Levi's Men's Cotton T-Shirt,4,Good quality cotton t-shirt for daily wear.,7,1,0.08,78,36
+LV_0192,Amazon,Levi's Men's Cotton T-Shirt,4,Original Levi's product with great comfort and durability.,8,1,0.22,70,50
+LV_0193,Flipkart,Levi's Men's Cotton T-Shirt,4,Satisfied with the fabric quality.,5,1,0.22,29,38
+LV_0194,Flipkart,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.86,3,1
+LV_0195,Myntra,Levi's Men's Cotton T-Shirt,4,Decent t-shirt for casual outings.,5,1,0.19,198,60
+LV_0196,Amazon,Levi's Men's Cotton T-Shirt,5,Very nice tshirt must buy,5,0,0.94,2,0
+LV_0197,Amazon,Levi's Men's Cotton T-Shirt,4,Comfortable for regular use.,4,1,0.07,109,33
+LV_0198,Myntra,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.29,144,40
+LV_0199,Myntra,Levi's Men's Cotton T-Shirt,4,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.3,107,11
+LV_0200,Amazon,Levi's Men's Cotton T-Shirt,3,Original Levi's product with great comfort and durability.,8,1,0.12,72,15
+LV_0201,Amazon,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.03,93,31
+LV_0202,Flipkart,Levi's Men's Cotton T-Shirt,5,Very nice tshirt must buy,5,0,0.81,4,1
+LV_0203,Myntra,Levi's Men's Cotton T-Shirt,3,Original Levi's product with great comfort and durability.,8,1,0.09,95,55
+LV_0204,Myntra,Levi's Men's Cotton T-Shirt,5,Awesome awesome awesome,3,0,0.64,5,0
+LV_0205,Amazon,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.8,1,1
+LV_0206,Amazon,Levi's Men's Cotton T-Shirt,5,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.18,67,44
+LV_0207,Myntra,Levi's Men's Cotton T-Shirt,3,Original Levi's product with great comfort and durability.,8,1,0.07,40,32
+LV_0208,Myntra,Levi's Men's Cotton T-Shirt,5,Good quality cotton t-shirt for daily wear.,7,1,0.17,68,5
+LV_0209,Myntra,Levi's Men's Cotton T-Shirt,5,Original Levi's product with great comfort and durability.,8,1,0.03,149,48
+LV_0210,Amazon,Levi's Men's Cotton T-Shirt,5,Best tshirt ever buy now,5,0,0.9,5,2
+LV_0211,Myntra,Levi's Men's Cotton T-Shirt,5,Decent t-shirt for casual outings.,5,1,0.14,149,58
+LV_0212,Myntra,Levi's Men's Cotton T-Shirt,3,Original Levi's product with great comfort and durability.,8,1,0.09,116,27
+LV_0213,Myntra,Levi's Men's Cotton T-Shirt,3,Good quality cotton t-shirt for daily wear.,7,1,0.17,45,33
+LV_0214,Flipkart,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.71,5,0
+LV_0215,Flipkart,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.69,3,1
+LV_0216,Myntra,Levi's Men's Cotton T-Shirt,4,Decent t-shirt for casual outings.,5,1,0.15,131,16
+LV_0217,Myntra,Levi's Men's Cotton T-Shirt,5,The t-shirt material is comfortable and fits well.,8,1,0.12,125,42
+LV_0218,Myntra,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.29,84,57
+LV_0219,Amazon,Levi's Men's Cotton T-Shirt,5,Good quality cotton t-shirt for daily wear.,7,1,0.04,179,16
+LV_0220,Flipkart,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.64,3,1
+LV_0221,Flipkart,Levi's Men's Cotton T-Shirt,4,Satisfied with the fabric quality.,5,1,0,53,34
+LV_0222,Myntra,Levi's Men's Cotton T-Shirt,4,Decent t-shirt for casual outings.,5,1,0.23,107,20
+LV_0223,Amazon,Levi's Men's Cotton T-Shirt,4,Very nice tshirt must buy,5,0,0.93,4,1
+LV_0224,Myntra,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.88,4,2
+LV_0225,Flipkart,Levi's Men's Cotton T-Shirt,5,The t-shirt material is comfortable and fits well.,8,1,0.29,114,46
+LV_0226,Myntra,Levi's Men's Cotton T-Shirt,3,Original Levi's product with great comfort and durability.,8,1,0.02,153,28
+LV_0227,Flipkart,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.8,3,1
+LV_0228,Myntra,Levi's Men's Cotton T-Shirt,4,Awesome awesome awesome,3,0,0.83,2,1
+LV_0229,Myntra,Levi's Men's Cotton T-Shirt,5,Awesome awesome awesome,3,0,0.64,4,0
+LV_0230,Myntra,Levi's Men's Cotton T-Shirt,4,Nice nice nice nice,4,0,0.63,3,0
+LV_0231,Myntra,Levi's Men's Cotton T-Shirt,5,Very nice tshirt must buy,5,0,0.63,2,0
+LV_0232,Myntra,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.63,3,0
+LV_0233,Flipkart,Levi's Men's Cotton T-Shirt,5,Original Levi's product with great comfort and durability.,8,1,0.11,130,49
+LV_0234,Myntra,Levi's Men's Cotton T-Shirt,3,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.01,60,39
+LV_0235,Flipkart,Levi's Men's Cotton T-Shirt,3,Good quality cotton t-shirt for daily wear.,7,1,0.09,138,20
+LV_0236,Myntra,Levi's Men's Cotton T-Shirt,4,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.3,141,30
+LV_0237,Flipkart,Levi's Men's Cotton T-Shirt,5,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.21,125,25
+LV_0238,Myntra,Levi's Men's Cotton T-Shirt,4,Decent t-shirt for casual outings.,5,1,0.16,143,29
+LV_0239,Myntra,Levi's Men's Cotton T-Shirt,3,The t-shirt material is comfortable and fits well.,8,1,0.29,64,48
+LV_0240,Myntra,Levi's Men's Cotton T-Shirt,4,Awesome awesome awesome,3,0,0.63,1,0
+LV_0241,Amazon,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.29,164,56
+LV_0242,Amazon,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.87,5,1
+LV_0243,Myntra,Levi's Men's Cotton T-Shirt,3,Decent t-shirt for casual outings.,5,1,0.08,54,56
+LV_0244,Amazon,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.84,3,1
+LV_0245,Myntra,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.9,4,1
+LV_0246,Myntra,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.06,148,14
+LV_0247,Myntra,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.29,63,11
+LV_0248,Myntra,Levi's Men's Cotton T-Shirt,4,Awesome awesome awesome,3,0,0.79,3,0
+LV_0249,Myntra,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.18,80,56
+LV_0250,Flipkart,Levi's Men's Cotton T-Shirt,4,Amazing tshirt best best best,5,0,0.86,3,0
+LV_0251,Amazon,Levi's Men's Cotton T-Shirt,4,Best tshirt ever buy now,5,0,0.83,1,2
+LV_0252,Myntra,Levi's Men's Cotton T-Shirt,4,Amazing tshirt best best best,5,0,0.8,1,0
+LV_0253,Myntra,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.05,73,57
+LV_0254,Myntra,Levi's Men's Cotton T-Shirt,3,The t-shirt material is comfortable and fits well.,8,1,0.2,28,33
+LV_0255,Amazon,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.29,66,59
+LV_0256,Myntra,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.1,104,58
+LV_0257,Amazon,Levi's Men's Cotton T-Shirt,3,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.07,158,54
+LV_0258,Myntra,Levi's Men's Cotton T-Shirt,5,Good quality cotton t-shirt for daily wear.,7,1,0.26,146,8
+LV_0259,Amazon,Levi's Men's Cotton T-Shirt,4,Good quality cotton t-shirt for daily wear.,7,1,0.04,80,8
+LV_0260,Myntra,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.83,3,2
+LV_0261,Myntra,Levi's Men's Cotton T-Shirt,4,The t-shirt material is comfortable and fits well.,8,1,0.22,26,30
+LV_0262,Myntra,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.81,1,1
+LV_0263,Myntra,Levi's Men's Cotton T-Shirt,5,Awesome awesome awesome,3,0,0.89,1,1
+LV_0264,Myntra,Levi's Men's Cotton T-Shirt,4,Awesome awesome awesome,3,0,0.65,3,0
+LV_0265,Flipkart,Levi's Men's Cotton T-Shirt,4,Awesome awesome awesome,3,0,0.62,3,1
+LV_0266,Amazon,Levi's Men's Cotton T-Shirt,4,The stitching and material quality are impressive for daily wear.,10,1,0.09,98,33
+LV_0267,Myntra,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.94,2,2
+LV_0268,Flipkart,Levi's Men's Cotton T-Shirt,4,Original Levi's product with great comfort and durability.,8,1,0.3,162,7
+LV_0269,Flipkart,Levi's Men's Cotton T-Shirt,3,Decent t-shirt for casual outings.,5,1,0.12,129,37
+LV_0270,Myntra,Levi's Men's Cotton T-Shirt,3,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.16,101,54
+LV_0271,Myntra,Levi's Men's Cotton T-Shirt,3,Comfortable for regular use.,4,1,0.08,54,29
+LV_0272,Myntra,Levi's Men's Cotton T-Shirt,4,Original Levi's product with great comfort and durability.,8,1,0.26,140,52
+LV_0273,Amazon,Levi's Men's Cotton T-Shirt,5,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.14,86,49
+LV_0274,Flipkart,Levi's Men's Cotton T-Shirt,3,Satisfied with the fabric quality.,5,1,0.29,22,60
+LV_0275,Flipkart,Levi's Men's Cotton T-Shirt,5,The t-shirt material is comfortable and fits well.,8,1,0.07,35,9
+LV_0276,Myntra,Levi's Men's Cotton T-Shirt,5,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.07,64,45
+LV_0277,Myntra,Levi's Men's Cotton T-Shirt,4,Satisfied with the fabric quality.,5,1,0.12,160,24
+LV_0278,Amazon,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.88,2,2
+LV_0279,Flipkart,Levi's Men's Cotton T-Shirt,3,Decent t-shirt for casual outings.,5,1,0.08,193,18
+LV_0280,Flipkart,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.94,4,1
+LV_0281,Myntra,Levi's Men's Cotton T-Shirt,5,Good quality cotton t-shirt for daily wear.,7,1,0.23,28,59
+LV_0282,Flipkart,Levi's Men's Cotton T-Shirt,4,Comfortable for regular use.,4,1,0.17,158,35
+LV_0283,Myntra,Levi's Men's Cotton T-Shirt,5,Decent t-shirt for casual outings.,5,1,0.3,92,32
+LV_0284,Myntra,Levi's Men's Cotton T-Shirt,3,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.02,51,35
+LV_0285,Myntra,Levi's Men's Cotton T-Shirt,4,The stitching and material quality are impressive for daily wear.,10,1,0.2,104,52
+LV_0286,Amazon,Levi's Men's Cotton T-Shirt,3,"Very satisfied with this purchase, the fabric remains soft after many washes.",12,1,0.25,31,19
+LV_0287,Myntra,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.15,163,32
+LV_0288,Amazon,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.68,5,2
+LV_0289,Myntra,Levi's Men's Cotton T-Shirt,4,Comfortable for regular use.,4,1,0.19,182,39
+LV_0290,Myntra,Levi's Men's Cotton T-Shirt,5,Nice nice nice nice,4,0,0.64,5,1
+LV_0291,Flipkart,Levi's Men's Cotton T-Shirt,4,Awesome awesome awesome,3,0,0.66,3,1
+LV_0292,Amazon,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.85,2,0
+LV_0293,Myntra,Levi's Men's Cotton T-Shirt,4,Nice nice nice nice,4,0,0.9,5,0
+LV_0294,Myntra,Levi's Men's Cotton T-Shirt,3,Excellent cotton t-shirt from Levi's with premium fabric and perfect fit.,11,1,0.06,132,60
+LV_0295,Myntra,Levi's Men's Cotton T-Shirt,3,The t-shirt material is comfortable and fits well.,8,1,0.24,116,57
+LV_0296,Myntra,Levi's Men's Cotton T-Shirt,5,Best tshirt ever buy now,5,0,0.87,3,1
+LV_0297,Flipkart,Levi's Men's Cotton T-Shirt,5,Decent t-shirt for casual outings.,5,1,0.15,92,17
+LV_0298,Myntra,Levi's Men's Cotton T-Shirt,4,Satisfied with the fabric quality.,5,1,0.03,172,36
+LV_0299,Flipkart,Levi's Men's Cotton T-Shirt,3,The stitching and material quality are impressive for daily wear.,10,1,0.2,170,16
+LV_0300,Amazon,Levi's Men's Cotton T-Shirt,5,Amazing tshirt best best best,5,0,0.64,1,2

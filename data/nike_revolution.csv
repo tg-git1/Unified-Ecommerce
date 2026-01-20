@@ -1,0 +1,301 @@
+review_id,platform,product_name,rating,review_text,review_length,verified_purchase,duplicate_phrase_score,reviewer_history,review_post_gap
+R0001,Amazon,Nike Revolution 6 Running Shoes,5,"Good quality for the price, but delivery took a bit longer.",11,1,0.12,22,9
+R0002,Amazon,Nike Revolution 6 Running Shoes,3,The shoes are comfortable and suitable for daily jogging.,9,1,0.27,64,7
+R0003,Amazon,Nike Revolution 6 Running Shoes,5,"Good quality for the price, but delivery took a bit longer.",11,1,0.03,118,8
+R0004,Amazon,Nike Revolution 6 Running Shoes,4,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0.28,157,42
+R0005,Flipkart,Nike Revolution 6 Running Shoes,4,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.17,44,23
+R0006,Flipkart,Nike Revolution 6 Running Shoes,3,Decent running shoes for beginners.,5,1,0.09,184,16
+R0007,Flipkart,Nike Revolution 6 Running Shoes,5,Decent running shoes for beginners.,5,1,0.21,154,8
+R0008,Amazon,Nike Revolution 6 Running Shoes,5,Decent running shoes for beginners.,5,1,0.13,90,34
+R0009,Amazon,Nike Revolution 6 Running Shoes,3,"Good quality for the price, but delivery took a bit longer.",11,1,0.24,188,54
+R0010,Myntra,Nike Revolution 6 Running Shoes,4,Decent running shoes for beginners.,5,1,0.15,97,51
+R0011,Flipkart,Nike Revolution 6 Running Shoes,4,The shoes are comfortable and suitable for daily jogging.,9,1,0.04,117,15
+R0012,Myntra,Nike Revolution 6 Running Shoes,5,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.01,181,9
+R0013,Amazon,Nike Revolution 6 Running Shoes,4,"Nice fit and lightweight, works well for morning walks.",9,1,0.18,158,56
+R0014,Myntra,Nike Revolution 6 Running Shoes,3,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.14,180,9
+R0015,Myntra,Nike Revolution 6 Running Shoes,4,The sole grip is good and material feels durable.,9,1,0.25,82,50
+R0016,Amazon,Nike Revolution 6 Running Shoes,5,Excellent product highly recommend,4,0,0.72,5,0
+R0017,Amazon,Nike Revolution 6 Running Shoes,5,Best shoes ever buy now,5,0,0.65,2,1
+R0018,Myntra,Nike Revolution 6 Running Shoes,5,Excellent product highly recommend,4,0,0.74,3,0
+R0019,Amazon,Nike Revolution 6 Running Shoes,3,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.2,107,19
+R0020,Myntra,Nike Revolution 6 Running Shoes,4,Good product good product,4,0,0.83,1,1
+R0021,Flipkart,Nike Revolution 6 Running Shoes,5,Awesome awesome awesome,3,0,0.75,3,2
+R0022,Amazon,Nike Revolution 6 Running Shoes,5,Decent running shoes for beginners.,5,1,0.29,177,48
+R0023,Amazon,Nike Revolution 6 Running Shoes,5,Overall satisfied with the purchase.,5,1,0.23,184,56
+R0024,Flipkart,Nike Revolution 6 Running Shoes,3,"Comfortable shoes, but cushioning could be slightly better.",8,1,0.03,172,30
+R0025,Amazon,Nike Revolution 6 Running Shoes,4,Good product good product,4,0,0.75,1,1
+R0026,Amazon,Nike Revolution 6 Running Shoes,4,Awesome awesome awesome,3,0,0.79,3,2
+R0027,Myntra,Nike Revolution 6 Running Shoes,4,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0.11,172,21
+R0028,Myntra,Nike Revolution 6 Running Shoes,4,The shoes are comfortable and suitable for daily jogging.,9,1,0.25,129,35
+R0029,Amazon,Nike Revolution 6 Running Shoes,4,Very nice shoes must buy,5,0,0.86,3,1
+R0030,Amazon,Nike Revolution 6 Running Shoes,5,Worth it worth it worth it,6,0,0.73,5,0
+R0031,Myntra,Nike Revolution 6 Running Shoes,3,"Nice fit and lightweight, works well for morning walks.",9,1,0.16,52,27
+R0032,Amazon,Nike Revolution 6 Running Shoes,3,Decent running shoes for beginners.,5,1,0.24,59,56
+R0033,Amazon,Nike Revolution 6 Running Shoes,5,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.06,136,27
+R0034,Myntra,Nike Revolution 6 Running Shoes,5,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.14,59,49
+R0035,Amazon,Nike Revolution 6 Running Shoes,3,The sole grip is good and material feels durable.,9,1,0.3,103,10
+R0036,Amazon,Nike Revolution 6 Running Shoes,4,Good product good product,4,0,0.72,4,2
+R0037,Amazon,Nike Revolution 6 Running Shoes,5,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.24,31,58
+R0038,Myntra,Nike Revolution 6 Running Shoes,5,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.14,55,32
+R0039,Flipkart,Nike Revolution 6 Running Shoes,4,Nice nice nice nice,4,0,0.76,1,2
+R0040,Flipkart,Nike Revolution 6 Running Shoes,5,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.05,129,56
+R0041,Flipkart,Nike Revolution 6 Running Shoes,3,Decent running shoes for beginners.,5,1,0.29,178,27
+R0042,Flipkart,Nike Revolution 6 Running Shoes,4,Very nice shoes must buy,5,0,0.78,2,1
+R0043,Myntra,Nike Revolution 6 Running Shoes,5,Good product good product,4,0,0.7,2,2
+R0044,Amazon,Nike Revolution 6 Running Shoes,4,Overall satisfied with the purchase.,5,1,0.04,199,27
+R0045,Amazon,Nike Revolution 6 Running Shoes,5,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0.04,48,38
+R0046,Amazon,Nike Revolution 6 Running Shoes,3,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.18,48,16
+R0047,Amazon,Nike Revolution 6 Running Shoes,5,The shoes are comfortable and suitable for daily jogging.,9,1,0.17,93,48
+R0048,Myntra,Nike Revolution 6 Running Shoes,3,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.26,24,20
+R0049,Amazon,Nike Revolution 6 Running Shoes,4,Very nice shoes must buy,5,0,0.78,5,0
+R0050,Amazon,Nike Revolution 6 Running Shoes,4,Decent running shoes for beginners.,5,1,0.18,61,49
+R0051,Myntra,Nike Revolution 6 Running Shoes,5,Overall satisfied with the purchase.,5,1,0.14,73,49
+R0052,Amazon,Nike Revolution 6 Running Shoes,3,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.25,45,31
+R0053,Myntra,Nike Revolution 6 Running Shoes,3,The shoes are comfortable and suitable for daily jogging.,9,1,0.2,119,9
+R0054,Flipkart,Nike Revolution 6 Running Shoes,4,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.28,174,47
+R0055,Amazon,Nike Revolution 6 Running Shoes,4,Awesome awesome awesome,3,0,0.94,2,2
+R0056,Amazon,Nike Revolution 6 Running Shoes,5,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.3,67,15
+R0057,Amazon,Nike Revolution 6 Running Shoes,4,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.1,60,27
+R0058,Amazon,Nike Revolution 6 Running Shoes,5,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.1,127,33
+R0059,Flipkart,Nike Revolution 6 Running Shoes,3,Decent running shoes for beginners.,5,1,0.19,141,9
+R0060,Myntra,Nike Revolution 6 Running Shoes,3,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.03,79,7
+R0061,Amazon,Nike Revolution 6 Running Shoes,4,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.25,183,57
+R0062,Amazon,Nike Revolution 6 Running Shoes,5,Worth it worth it worth it,6,0,0.8,3,0
+R0063,Amazon,Nike Revolution 6 Running Shoes,3,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.13,28,22
+R0064,Amazon,Nike Revolution 6 Running Shoes,4,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.18,66,9
+R0065,Flipkart,Nike Revolution 6 Running Shoes,5,"Nice fit and lightweight, works well for morning walks.",9,1,0.3,116,22
+R0066,Flipkart,Nike Revolution 6 Running Shoes,4,Good product good product,4,0,0.93,2,1
+R0067,Amazon,Nike Revolution 6 Running Shoes,5,Best shoes ever buy now,5,0,0.82,5,0
+R0068,Amazon,Nike Revolution 6 Running Shoes,3,"Good quality for the price, but delivery took a bit longer.",11,1,0.08,14,21
+R0069,Flipkart,Nike Revolution 6 Running Shoes,5,Worth it worth it worth it,6,0,0.79,2,2
+R0070,Amazon,Nike Revolution 6 Running Shoes,5,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.2,176,32
+R0071,Flipkart,Nike Revolution 6 Running Shoes,3,"Comfortable shoes, but cushioning could be slightly better.",8,1,0.29,88,49
+R0072,Amazon,Nike Revolution 6 Running Shoes,3,Overall satisfied with the purchase.,5,1,0.26,196,45
+R0073,Myntra,Nike Revolution 6 Running Shoes,5,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.25,13,9
+R0074,Myntra,Nike Revolution 6 Running Shoes,5,The shoes are comfortable and suitable for daily jogging.,9,1,0.03,107,60
+R0075,Myntra,Nike Revolution 6 Running Shoes,3,The sole grip is good and material feels durable.,9,1,0.09,127,16
+R0076,Flipkart,Nike Revolution 6 Running Shoes,4,"Nice fit and lightweight, works well for morning walks.",9,1,0.11,94,40
+R0077,Amazon,Nike Revolution 6 Running Shoes,5,Best shoes ever buy now,5,0,0.68,2,0
+R0078,Amazon,Nike Revolution 6 Running Shoes,4,Best shoes ever buy now,5,0,0.78,2,0
+R0079,Amazon,Nike Revolution 6 Running Shoes,5,Very nice shoes must buy,5,0,0.65,5,0
+R0080,Myntra,Nike Revolution 6 Running Shoes,5,Good product good product,4,0,0.63,5,0
+R0081,Flipkart,Nike Revolution 6 Running Shoes,5,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.04,195,44
+R0082,Flipkart,Nike Revolution 6 Running Shoes,4,Worth it worth it worth it,6,0,0.82,5,0
+R0083,Amazon,Nike Revolution 6 Running Shoes,5,Amazing product best best best,5,0,0.65,3,0
+R0084,Amazon,Nike Revolution 6 Running Shoes,3,The sole grip is good and material feels durable.,9,1,0.01,146,48
+R0085,Amazon,Nike Revolution 6 Running Shoes,4,Excellent product highly recommend,4,0,0.88,5,2
+R0086,Flipkart,Nike Revolution 6 Running Shoes,4,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.08,29,59
+R0087,Amazon,Nike Revolution 6 Running Shoes,4,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.07,176,34
+R0088,Amazon,Nike Revolution 6 Running Shoes,4,Best shoes ever buy now,5,0,0.87,5,2
+R0089,Flipkart,Nike Revolution 6 Running Shoes,4,"Nice fit and lightweight, works well for morning walks.",9,1,0.08,200,49
+R0090,Amazon,Nike Revolution 6 Running Shoes,4,Amazing product best best best,5,0,0.77,1,2
+R0091,Flipkart,Nike Revolution 6 Running Shoes,4,Worth it worth it worth it,6,0,0.7,4,1
+R0092,Amazon,Nike Revolution 6 Running Shoes,4,The shoes are comfortable and suitable for daily jogging.,9,1,0.28,14,23
+R0093,Amazon,Nike Revolution 6 Running Shoes,3,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.3,109,18
+R0094,Myntra,Nike Revolution 6 Running Shoes,3,"Good quality for the price, but delivery took a bit longer.",11,1,0.22,77,28
+R0095,Flipkart,Nike Revolution 6 Running Shoes,3,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.07,134,30
+R0096,Amazon,Nike Revolution 6 Running Shoes,4,Excellent product highly recommend,4,0,0.84,4,1
+R0097,Myntra,Nike Revolution 6 Running Shoes,4,"Nice fit and lightweight, works well for morning walks.",9,1,0.04,94,5
+R0098,Myntra,Nike Revolution 6 Running Shoes,3,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.28,60,50
+R0099,Amazon,Nike Revolution 6 Running Shoes,5,Very nice shoes must buy,5,0,0.74,5,0
+R0100,Myntra,Nike Revolution 6 Running Shoes,5,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.08,23,58
+R0101,Myntra,Nike Revolution 6 Running Shoes,5,"Good quality for the price, but delivery took a bit longer.",11,1,0.07,78,32
+R0102,Flipkart,Nike Revolution 6 Running Shoes,5,Super super quality very very nice,6,0,0.87,4,0
+R0103,Flipkart,Nike Revolution 6 Running Shoes,5,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.28,115,33
+R0104,Flipkart,Nike Revolution 6 Running Shoes,3,"Nice fit and lightweight, works well for morning walks.",9,1,0.15,150,13
+R0105,Myntra,Nike Revolution 6 Running Shoes,5,"Nice fit and lightweight, works well for morning walks.",9,1,0.09,199,52
+R0106,Amazon,Nike Revolution 6 Running Shoes,4,"Good quality for the price, but delivery took a bit longer.",11,1,0.09,152,47
+R0107,Flipkart,Nike Revolution 6 Running Shoes,4,Awesome awesome awesome,3,0,0.63,5,1
+R0108,Amazon,Nike Revolution 6 Running Shoes,3,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.13,150,17
+R0109,Flipkart,Nike Revolution 6 Running Shoes,5,Worth it worth it worth it,6,0,0.63,2,1
+R0110,Flipkart,Nike Revolution 6 Running Shoes,3,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.11,200,38
+R0111,Flipkart,Nike Revolution 6 Running Shoes,4,Amazing product best best best,5,0,0.77,5,1
+R0112,Amazon,Nike Revolution 6 Running Shoes,5,Good product good product,4,0,0.73,4,1
+R0113,Amazon,Nike Revolution 6 Running Shoes,5,Nice nice nice nice,4,0,0.85,4,2
+R0114,Flipkart,Nike Revolution 6 Running Shoes,4,Worth it worth it worth it,6,0,0.9,4,0
+R0115,Amazon,Nike Revolution 6 Running Shoes,5,Worth it worth it worth it,6,0,0.94,1,2
+R0116,Amazon,Nike Revolution 6 Running Shoes,5,The shoes are comfortable and suitable for daily jogging.,9,1,0,42,19
+R0117,Flipkart,Nike Revolution 6 Running Shoes,5,"Nice fit and lightweight, works well for morning walks.",9,1,0.29,170,21
+R0118,Flipkart,Nike Revolution 6 Running Shoes,5,The shoes are comfortable and suitable for daily jogging.,9,1,0.03,86,38
+R0119,Myntra,Nike Revolution 6 Running Shoes,5,"Good quality for the price, but delivery took a bit longer.",11,1,0.24,10,5
+R0120,Flipkart,Nike Revolution 6 Running Shoes,3,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.29,175,58
+R0121,Myntra,Nike Revolution 6 Running Shoes,5,Decent running shoes for beginners.,5,1,0.07,115,50
+R0122,Flipkart,Nike Revolution 6 Running Shoes,5,Good product good product,4,0,0.77,4,0
+R0123,Flipkart,Nike Revolution 6 Running Shoes,4,"Nice fit and lightweight, works well for morning walks.",9,1,0.07,18,49
+R0124,Amazon,Nike Revolution 6 Running Shoes,5,"Comfortable shoes, but cushioning could be slightly better.",8,1,0.06,84,52
+R0125,Flipkart,Nike Revolution 6 Running Shoes,5,Good product good product,4,0,0.71,2,0
+R0126,Flipkart,Nike Revolution 6 Running Shoes,4,Best shoes ever buy now,5,0,0.64,5,1
+R0127,Amazon,Nike Revolution 6 Running Shoes,4,The sole grip is good and material feels durable.,9,1,0.02,162,14
+R0128,Flipkart,Nike Revolution 6 Running Shoes,4,Loved it loved it loved it,6,0,0.65,1,2
+R0129,Flipkart,Nike Revolution 6 Running Shoes,3,The sole grip is good and material feels durable.,9,1,0.27,197,12
+R0130,Amazon,Nike Revolution 6 Running Shoes,4,"Good quality for the price, but delivery took a bit longer.",11,1,0.2,144,52
+R0131,Flipkart,Nike Revolution 6 Running Shoes,4,The sole grip is good and material feels durable.,9,1,0.11,105,26
+R0132,Flipkart,Nike Revolution 6 Running Shoes,4,Very nice shoes must buy,5,0,0.7,3,1
+R0133,Flipkart,Nike Revolution 6 Running Shoes,3,Overall satisfied with the purchase.,5,1,0.25,120,10
+R0134,Flipkart,Nike Revolution 6 Running Shoes,5,Worth it worth it worth it,6,0,0.92,2,1
+R0135,Amazon,Nike Revolution 6 Running Shoes,5,Nice nice nice nice,4,0,0.69,4,0
+R0136,Amazon,Nike Revolution 6 Running Shoes,5,Overall satisfied with the purchase.,5,1,0.28,75,17
+R0137,Myntra,Nike Revolution 6 Running Shoes,3,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.11,95,44
+R0138,Amazon,Nike Revolution 6 Running Shoes,5,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.28,86,5
+R0139,Flipkart,Nike Revolution 6 Running Shoes,5,Good product good product,4,0,0.64,4,1
+R0140,Myntra,Nike Revolution 6 Running Shoes,5,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.28,56,5
+R0141,Flipkart,Nike Revolution 6 Running Shoes,4,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.18,93,60
+R0142,Flipkart,Nike Revolution 6 Running Shoes,4,Overall satisfied with the purchase.,5,1,0.18,141,17
+R0143,Flipkart,Nike Revolution 6 Running Shoes,5,Very nice shoes must buy,5,0,0.83,4,2
+R0144,Flipkart,Nike Revolution 6 Running Shoes,3,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.3,77,44
+R0145,Flipkart,Nike Revolution 6 Running Shoes,4,Excellent product highly recommend,4,0,0.95,4,0
+R0146,Amazon,Nike Revolution 6 Running Shoes,5,Decent running shoes for beginners.,5,1,0.27,70,52
+R0147,Myntra,Nike Revolution 6 Running Shoes,4,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.09,155,22
+R0148,Flipkart,Nike Revolution 6 Running Shoes,3,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.13,57,20
+R0149,Flipkart,Nike Revolution 6 Running Shoes,5,Loved it loved it loved it,6,0,0.67,1,1
+R0150,Amazon,Nike Revolution 6 Running Shoes,4,"Good quality for the price, but delivery took a bit longer.",11,1,0.19,35,46
+R0151,Amazon,Nike Revolution 6 Running Shoes,5,Excellent product highly recommend,4,0,0.91,2,1
+R0152,Flipkart,Nike Revolution 6 Running Shoes,5,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.04,58,43
+R0153,Myntra,Nike Revolution 6 Running Shoes,5,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.15,55,33
+R0154,Myntra,Nike Revolution 6 Running Shoes,5,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.03,162,50
+R0155,Amazon,Nike Revolution 6 Running Shoes,5,Super super quality very very nice,6,0,0.72,1,0
+R0156,Flipkart,Nike Revolution 6 Running Shoes,4,The sole grip is good and material feels durable.,9,1,0.27,12,57
+R0157,Flipkart,Nike Revolution 6 Running Shoes,3,"Good quality for the price, but delivery took a bit longer.",11,1,0.19,29,18
+R0158,Flipkart,Nike Revolution 6 Running Shoes,5,The shoes are comfortable and suitable for daily jogging.,9,1,0.12,111,47
+R0159,Flipkart,Nike Revolution 6 Running Shoes,4,The shoes are comfortable and suitable for daily jogging.,9,1,0.2,111,49
+R0160,Myntra,Nike Revolution 6 Running Shoes,5,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.13,23,24
+R0161,Flipkart,Nike Revolution 6 Running Shoes,3,The shoes are comfortable and suitable for daily jogging.,9,1,0.26,103,46
+R0162,Amazon,Nike Revolution 6 Running Shoes,4,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.28,121,15
+R0163,Flipkart,Nike Revolution 6 Running Shoes,3,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.17,103,34
+R0164,Flipkart,Nike Revolution 6 Running Shoes,5,Worth it worth it worth it,6,0,0.65,4,0
+R0165,Flipkart,Nike Revolution 6 Running Shoes,4,Best shoes ever buy now,5,0,0.66,2,0
+R0166,Amazon,Nike Revolution 6 Running Shoes,3,Overall satisfied with the purchase.,5,1,0.24,60,24
+R0167,Amazon,Nike Revolution 6 Running Shoes,4,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.09,165,45
+R0168,Flipkart,Nike Revolution 6 Running Shoes,3,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0.21,51,45
+R0169,Amazon,Nike Revolution 6 Running Shoes,3,"Good quality for the price, but delivery took a bit longer.",11,1,0.25,56,41
+R0170,Flipkart,Nike Revolution 6 Running Shoes,3,Decent running shoes for beginners.,5,1,0.05,101,12
+R0171,Amazon,Nike Revolution 6 Running Shoes,5,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.01,153,58
+R0172,Myntra,Nike Revolution 6 Running Shoes,5,"Nice fit and lightweight, works well for morning walks.",9,1,0.04,163,34
+R0173,Myntra,Nike Revolution 6 Running Shoes,5,"Nice fit and lightweight, works well for morning walks.",9,1,0.17,118,29
+R0174,Flipkart,Nike Revolution 6 Running Shoes,4,"Comfortable shoes, but cushioning could be slightly better.",8,1,0.05,10,44
+R0175,Flipkart,Nike Revolution 6 Running Shoes,5,Loved it loved it loved it,6,0,0.87,4,0
+R0176,Amazon,Nike Revolution 6 Running Shoes,5,Awesome awesome awesome,3,0,0.73,3,0
+R0177,Amazon,Nike Revolution 6 Running Shoes,4,Awesome awesome awesome,3,0,0.63,3,2
+R0178,Amazon,Nike Revolution 6 Running Shoes,3,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.2,44,6
+R0179,Amazon,Nike Revolution 6 Running Shoes,4,Excellent product highly recommend,4,0,0.7,2,2
+R0180,Myntra,Nike Revolution 6 Running Shoes,5,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0.23,50,25
+R0181,Myntra,Nike Revolution 6 Running Shoes,3,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.04,138,35
+R0182,Flipkart,Nike Revolution 6 Running Shoes,3,"Good quality for the price, but delivery took a bit longer.",11,1,0.1,19,17
+R0183,Amazon,Nike Revolution 6 Running Shoes,5,Best shoes ever buy now,5,0,0.84,4,0
+R0184,Amazon,Nike Revolution 6 Running Shoes,4,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.19,102,60
+R0185,Myntra,Nike Revolution 6 Running Shoes,5,Worth it worth it worth it,6,0,0.82,4,2
+R0186,Flipkart,Nike Revolution 6 Running Shoes,3,"Nice fit and lightweight, works well for morning walks.",9,1,0.17,102,26
+R0187,Myntra,Nike Revolution 6 Running Shoes,5,Loved it loved it loved it,6,0,0.86,1,1
+R0188,Amazon,Nike Revolution 6 Running Shoes,5,Overall satisfied with the purchase.,5,1,0.18,179,25
+R0189,Flipkart,Nike Revolution 6 Running Shoes,4,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.04,167,45
+R0190,Amazon,Nike Revolution 6 Running Shoes,5,The shoes are comfortable and suitable for daily jogging.,9,1,0.04,68,44
+R0191,Flipkart,Nike Revolution 6 Running Shoes,5,Amazing product best best best,5,0,0.8,3,0
+R0192,Flipkart,Nike Revolution 6 Running Shoes,5,"Nice fit and lightweight, works well for morning walks.",9,1,0.18,62,28
+R0193,Flipkart,Nike Revolution 6 Running Shoes,4,Amazing product best best best,5,0,0.93,2,2
+R0194,Amazon,Nike Revolution 6 Running Shoes,5,Awesome awesome awesome,3,0,0.9,3,1
+R0195,Flipkart,Nike Revolution 6 Running Shoes,5,Worth it worth it worth it,6,0,0.91,5,2
+R0196,Flipkart,Nike Revolution 6 Running Shoes,5,Amazing product best best best,5,0,0.62,5,0
+R0197,Flipkart,Nike Revolution 6 Running Shoes,4,Amazing product best best best,5,0,0.92,1,0
+R0198,Flipkart,Nike Revolution 6 Running Shoes,5,Decent running shoes for beginners.,5,1,0.18,139,46
+R0199,Amazon,Nike Revolution 6 Running Shoes,5,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.15,26,24
+R0200,Flipkart,Nike Revolution 6 Running Shoes,4,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.21,11,29
+R0201,Amazon,Nike Revolution 6 Running Shoes,4,Excellent product highly recommend,4,0,0.66,1,1
+R0202,Myntra,Nike Revolution 6 Running Shoes,5,Best shoes ever buy now,5,0,0.85,3,2
+R0203,Myntra,Nike Revolution 6 Running Shoes,4,Good product good product,4,0,0.63,5,0
+R0204,Myntra,Nike Revolution 6 Running Shoes,4,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.28,93,17
+R0205,Flipkart,Nike Revolution 6 Running Shoes,5,"Comfortable shoes, but cushioning could be slightly better.",8,1,0.27,171,49
+R0206,Flipkart,Nike Revolution 6 Running Shoes,5,Decent running shoes for beginners.,5,1,0.21,16,32
+R0207,Amazon,Nike Revolution 6 Running Shoes,5,"Nice fit and lightweight, works well for morning walks.",9,1,0.24,110,44
+R0208,Flipkart,Nike Revolution 6 Running Shoes,3,"Good quality for the price, but delivery took a bit longer.",11,1,0.04,16,12
+R0209,Amazon,Nike Revolution 6 Running Shoes,3,"Good quality for the price, but delivery took a bit longer.",11,1,0.21,17,7
+R0210,Flipkart,Nike Revolution 6 Running Shoes,4,The sole grip is good and material feels durable.,9,1,0.01,161,53
+R0211,Myntra,Nike Revolution 6 Running Shoes,5,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0.27,26,60
+R0212,Myntra,Nike Revolution 6 Running Shoes,4,Good product good product,4,0,0.67,1,0
+R0213,Myntra,Nike Revolution 6 Running Shoes,4,"Good quality for the price, but delivery took a bit longer.",11,1,0.03,175,18
+R0214,Myntra,Nike Revolution 6 Running Shoes,3,"Nice fit and lightweight, works well for morning walks.",9,1,0.01,75,23
+R0215,Amazon,Nike Revolution 6 Running Shoes,5,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0.15,83,44
+R0216,Amazon,Nike Revolution 6 Running Shoes,4,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.13,35,27
+R0217,Flipkart,Nike Revolution 6 Running Shoes,4,"Good quality for the price, but delivery took a bit longer.",11,1,0.21,33,41
+R0218,Myntra,Nike Revolution 6 Running Shoes,4,Decent running shoes for beginners.,5,1,0.06,23,5
+R0219,Flipkart,Nike Revolution 6 Running Shoes,5,Awesome awesome awesome,3,0,0.94,5,1
+R0220,Amazon,Nike Revolution 6 Running Shoes,4,Good product good product,4,0,0.93,2,1
+R0221,Myntra,Nike Revolution 6 Running Shoes,3,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.15,188,40
+R0222,Amazon,Nike Revolution 6 Running Shoes,4,"Comfortable shoes, but cushioning could be slightly better.",8,1,0.28,200,10
+R0223,Myntra,Nike Revolution 6 Running Shoes,3,"Nice fit and lightweight, works well for morning walks.",9,1,0.08,149,37
+R0224,Amazon,Nike Revolution 6 Running Shoes,5,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.28,42,39
+R0225,Myntra,Nike Revolution 6 Running Shoes,5,"Nice fit and lightweight, works well for morning walks.",9,1,0.16,125,47
+R0226,Flipkart,Nike Revolution 6 Running Shoes,4,Excellent product highly recommend,4,0,0.84,3,2
+R0227,Myntra,Nike Revolution 6 Running Shoes,3,The sole grip is good and material feels durable.,9,1,0.27,70,37
+R0228,Flipkart,Nike Revolution 6 Running Shoes,5,The sole grip is good and material feels durable.,9,1,0.25,168,14
+R0229,Myntra,Nike Revolution 6 Running Shoes,3,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.18,99,15
+R0230,Amazon,Nike Revolution 6 Running Shoes,3,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.29,196,11
+R0231,Myntra,Nike Revolution 6 Running Shoes,5,Awesome awesome awesome,3,0,0.94,3,2
+R0232,Myntra,Nike Revolution 6 Running Shoes,4,Very nice shoes must buy,5,0,0.82,1,1
+R0233,Myntra,Nike Revolution 6 Running Shoes,3,The shoes are comfortable and suitable for daily jogging.,9,1,0.12,121,49
+R0234,Flipkart,Nike Revolution 6 Running Shoes,3,"Good quality for the price, but delivery took a bit longer.",11,1,0.08,198,30
+R0235,Myntra,Nike Revolution 6 Running Shoes,5,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.21,160,52
+R0236,Amazon,Nike Revolution 6 Running Shoes,5,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0.26,183,16
+R0237,Flipkart,Nike Revolution 6 Running Shoes,4,"Nice fit and lightweight, works well for morning walks.",9,1,0.08,189,11
+R0238,Amazon,Nike Revolution 6 Running Shoes,4,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.08,118,35
+R0239,Myntra,Nike Revolution 6 Running Shoes,3,"Comfortable shoes, but cushioning could be slightly better.",8,1,0.16,179,60
+R0240,Flipkart,Nike Revolution 6 Running Shoes,4,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.25,37,7
+R0241,Flipkart,Nike Revolution 6 Running Shoes,5,Good product good product,4,0,0.78,1,2
+R0242,Myntra,Nike Revolution 6 Running Shoes,4,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0,104,38
+R0243,Amazon,Nike Revolution 6 Running Shoes,4,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.06,185,16
+R0244,Myntra,Nike Revolution 6 Running Shoes,4,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0.11,24,21
+R0245,Myntra,Nike Revolution 6 Running Shoes,5,The shoes are comfortable and suitable for daily jogging.,9,1,0.02,117,45
+R0246,Flipkart,Nike Revolution 6 Running Shoes,5,The shoes are comfortable and suitable for daily jogging.,9,1,0.07,199,30
+R0247,Flipkart,Nike Revolution 6 Running Shoes,3,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.14,52,13
+R0248,Myntra,Nike Revolution 6 Running Shoes,5,Decent running shoes for beginners.,5,1,0.22,47,27
+R0249,Myntra,Nike Revolution 6 Running Shoes,4,"Nice fit and lightweight, works well for morning walks.",9,1,0.23,176,13
+R0250,Myntra,Nike Revolution 6 Running Shoes,4,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.08,106,48
+R0251,Myntra,Nike Revolution 6 Running Shoes,4,"Comfortable shoes, but cushioning could be slightly better.",8,1,0,194,56
+R0252,Myntra,Nike Revolution 6 Running Shoes,4,Best shoes ever buy now,5,0,0.71,4,1
+R0253,Flipkart,Nike Revolution 6 Running Shoes,5,Best shoes ever buy now,5,0,0.9,1,0
+R0254,Flipkart,Nike Revolution 6 Running Shoes,3,"Nice fit and lightweight, works well for morning walks.",9,1,0.19,13,47
+R0255,Flipkart,Nike Revolution 6 Running Shoes,3,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.08,35,42
+R0256,Flipkart,Nike Revolution 6 Running Shoes,5,Excellent product highly recommend,4,0,0.72,2,0
+R0257,Myntra,Nike Revolution 6 Running Shoes,5,The sole grip is good and material feels durable.,9,1,0.18,33,47
+R0258,Amazon,Nike Revolution 6 Running Shoes,4,Good product good product,4,0,0.79,4,2
+R0259,Myntra,Nike Revolution 6 Running Shoes,4,Good product good product,4,0,0.89,4,1
+R0260,Amazon,Nike Revolution 6 Running Shoes,3,"Good quality for the price, but delivery took a bit longer.",11,1,0.21,73,36
+R0261,Myntra,Nike Revolution 6 Running Shoes,5,Super super quality very very nice,6,0,0.76,5,1
+R0262,Myntra,Nike Revolution 6 Running Shoes,3,"Comfortable shoes, but cushioning could be slightly better.",8,1,0.3,183,9
+R0263,Myntra,Nike Revolution 6 Running Shoes,5,The shoes are comfortable and suitable for daily jogging.,9,1,0.01,21,48
+R0264,Amazon,Nike Revolution 6 Running Shoes,3,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.15,134,53
+R0265,Myntra,Nike Revolution 6 Running Shoes,5,Nice nice nice nice,4,0,0.82,3,0
+R0266,Myntra,Nike Revolution 6 Running Shoes,4,Decent running shoes for beginners.,5,1,0.17,63,23
+R0267,Myntra,Nike Revolution 6 Running Shoes,4,Decent running shoes for beginners.,5,1,0.02,84,23
+R0268,Myntra,Nike Revolution 6 Running Shoes,3,Decent running shoes for beginners.,5,1,0.3,139,27
+R0269,Amazon,Nike Revolution 6 Running Shoes,3,Very satisfied with the quality. The shoes provide great comfort during workouts and look stylish as well. Worth the money.,20,1,0.06,192,24
+R0270,Amazon,Nike Revolution 6 Running Shoes,5,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.12,151,30
+R0271,Amazon,Nike Revolution 6 Running Shoes,4,The shoes are comfortable and suitable for daily jogging.,9,1,0,58,57
+R0272,Amazon,Nike Revolution 6 Running Shoes,5,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0.18,167,14
+R0273,Amazon,Nike Revolution 6 Running Shoes,4,Excellent product highly recommend,4,0,0.82,2,0
+R0274,Flipkart,Nike Revolution 6 Running Shoes,4,The shoes are comfortable and suitable for daily jogging.,9,1,0.27,177,5
+R0275,Amazon,Nike Revolution 6 Running Shoes,4,Original Nike product with premium build quality. Highly recommended for people who run or walk regularly.,16,1,0.21,87,16
+R0276,Amazon,Nike Revolution 6 Running Shoes,4,"Comfortable shoes, but cushioning could be slightly better.",8,1,0.17,158,8
+R0277,Amazon,Nike Revolution 6 Running Shoes,3,"Used these shoes for gym and outdoor running. Grip is good, no slipping issues, and feet don’t feel tired even after long use.",23,1,0.17,113,33
+R0278,Myntra,Nike Revolution 6 Running Shoes,4,Decent running shoes for beginners.,5,1,0.18,178,14
+R0279,Amazon,Nike Revolution 6 Running Shoes,5,The shoes are comfortable and suitable for daily jogging.,9,1,0.19,64,14
+R0280,Flipkart,Nike Revolution 6 Running Shoes,3,The shoes are comfortable and suitable for daily jogging.,9,1,0.21,41,59
+R0281,Flipkart,Nike Revolution 6 Running Shoes,5,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.14,80,51
+R0282,Flipkart,Nike Revolution 6 Running Shoes,5,The sole grip is good and material feels durable.,9,1,0.06,22,28
+R0283,Myntra,Nike Revolution 6 Running Shoes,4,I have been using these shoes for daily running for over a month and they are extremely comfortable. The cushioning absorbs impact well and the fit is perfect.,28,1,0.09,152,50
+R0284,Amazon,Nike Revolution 6 Running Shoes,3,"Nice fit and lightweight, works well for morning walks.",9,1,0.27,23,50
+R0285,Myntra,Nike Revolution 6 Running Shoes,4,Loved it loved it loved it,6,0,0.63,3,1
+R0286,Myntra,Nike Revolution 6 Running Shoes,4,"Nice fit and lightweight, works well for morning walks.",9,1,0.11,157,51
+R0287,Flipkart,Nike Revolution 6 Running Shoes,5,"Good quality for the price, but delivery took a bit longer.",11,1,0.29,39,28
+R0288,Myntra,Nike Revolution 6 Running Shoes,5,"Comfortable shoes, but cushioning could be slightly better.",8,1,0.14,125,22
+R0289,Flipkart,Nike Revolution 6 Running Shoes,4,Amazing product best best best,5,0,0.82,5,1
+R0290,Myntra,Nike Revolution 6 Running Shoes,4,"Nice fit and lightweight, works well for morning walks.",9,1,0.18,73,29
+R0291,Myntra,Nike Revolution 6 Running Shoes,3,"Good quality for the price, but delivery took a bit longer.",11,1,0.24,82,49
+R0292,Flipkart,Nike Revolution 6 Running Shoes,4,Nice nice nice nice,4,0,0.66,1,1
+R0293,Myntra,Nike Revolution 6 Running Shoes,4,Worth it worth it worth it,6,0,0.84,4,1
+R0294,Amazon,Nike Revolution 6 Running Shoes,4,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.24,194,19
+R0295,Myntra,Nike Revolution 6 Running Shoes,3,"Comfortable shoes, but cushioning could be slightly better.",8,1,0.21,75,42
+R0296,Flipkart,Nike Revolution 6 Running Shoes,3,The shoes are comfortable and suitable for daily jogging.,9,1,0.16,100,54
+R0297,Flipkart,Nike Revolution 6 Running Shoes,4,Decent running shoes for beginners.,5,1,0.27,143,25
+R0298,Myntra,Nike Revolution 6 Running Shoes,5,Good product good product,4,0,0.63,3,1
+R0299,Myntra,Nike Revolution 6 Running Shoes,3,"Excellent running shoes from Nike. Lightweight, breathable material and good arch support. Suitable for long runs and walking.",18,1,0.07,136,28
+R0300,Myntra,Nike Revolution 6 Running Shoes,3,Overall satisfied with the purchase.,5,1,0.02,90,43
